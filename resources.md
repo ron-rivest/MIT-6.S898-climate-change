@@ -2,8 +2,10 @@
 
 by Alan Edelman, John Fernandez, and Ron Rivest
 
-These are potential readings and links only; actual assignments should be a 
-subset of these.
+These are _potential_ readings and links only; 
+actual assignments for the class will be a subset of these.
+
+This material may also be useful for those wishing to "self-study".
 
 Also check the "docs" directory for additional material.
 
@@ -120,7 +122,8 @@ Also check the "docs" directory for additional material.
   http://worrydream.com/ClimateChange/  
   
 * _Climate Change: A Defining Challenge for the 21st Century?_
-  Youtube lecture by Dame Julia Slingo FRS at Gresham College\
+  Youtube lecture by Dame Julia Slingo FRS\
+  Giving the Sir Thomas Gresham Annual Lecture 2018.at Gresham College\
   https://www.youtube.com/watch?v=q1BEQnkdAVE \
   Emphasizes the uses of simulations.
   
