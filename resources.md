@@ -106,10 +106,10 @@ Also check the "docs" directory for additional material.
   
 ## Technology applied to Climate Change
 
-* Tackling Climate Change with Machine Learning\
+* _Tackling Climate Change with Machine Learning_\
   by David Rolnick et al.\
   https://arxiv.org/abs/1906.05433\
-  (has an excellent 708-entry bibliography too!)
+  (has an excellent 708-entry bibliography!)
   
 ## Carbon footprint calculators
 
