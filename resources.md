@@ -119,6 +119,11 @@ Also check the "docs" directory for additional material.
   by Bret Victor\
   http://worrydream.com/ClimateChange/  
   
+* _Climate Change: A Defining Challenge for the 21st Century?_
+  Youtube lecture by Dame Julia Slingo FRS at Gresham College\
+  https://www.youtube.com/watch?v=q1BEQnkdAVE \
+  Emphasizes the uses of simulations.
+  
 ## Carbon footprint calculators
 
 * Carbon footprint calculator\
