@@ -84,7 +84,8 @@ Also check the "docs" directory for additional material.
 ## Other significant sources of information 
 
 * U.S. National Academies\
-  http://www8.nationalacademies.org/onpinews/newsitem.aspx?RecordID=06182019
+  http://www8.nationalacademies.org/onpinews/newsitem.aspx?RecordID=06182019\
+  http://sites.nationalacademies.org/sites/climate/SITES_190724\
 
 ## Other courses on Climate Change
 
