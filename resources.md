@@ -48,15 +48,6 @@ Also check the "docs" directory for additional material.
 
 ## Social media
 
-## Carbon footprint calculators
-
-* Carbon footprint calculator\
-  https://www.carbonfootprint.com/calculator.aspx
-  
-## Carbon offset options
-
-* Terrapass\
-  https://www.terrapass.com/
 
 ## Visualizations
 
@@ -112,3 +103,21 @@ Also check the "docs" directory for additional material.
 * Reading list for course "Climate Science, Policy, and Solutions"\
   by Katharine Hayhoe\
   https://www.amazon.com/ideas/amzn1.account.AFUOV4KMQ2VHZNDXKWVJWT2KEALA/24A2G2STP9NC6?ref=idea_share
+  
+## Technology applied to Climate Change
+
+* Tackling Climate Change with Machine Learning\
+  by David Rolnick et al.\
+  https://arxiv.org/abs/1906.05433\
+  (has an excellent 708-entry bibliography too!)
+  
+## Carbon footprint calculators
+
+* Carbon footprint calculator\
+  https://www.carbonfootprint.com/calculator.aspx
+  
+## Carbon offset options
+
+* Terrapass\
+  https://www.terrapass.com/
+
