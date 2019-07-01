@@ -110,13 +110,8 @@ Also check the "docs" directory for additional material.
   by Katharine Hayhoe\
   https://www.amazon.com/ideas/amzn1.account.AFUOV4KMQ2VHZNDXKWVJWT2KEALA/24A2G2STP9NC6?ref=idea_share
   
-## Technology applied to Climate Change
+## Computer Science technology applied to Climate Change
 
-* _Tackling Climate Change with Machine Learning_\
-  by David Rolnick et al.\
-  https://arxiv.org/abs/1906.05433 \
-  (has an excellent 708-entry bibliography!)
-  
 * _What can a technologist do about climate change?_\
   by Bret Victor\
   http://worrydream.com/ClimateChange/  
@@ -127,6 +122,17 @@ Also check the "docs" directory for additional material.
   https://www.youtube.com/watch?v=q1BEQnkdAVE \
   Emphasizes the uses of simulations.
   
+* _The Julia Programming Language_\
+  https://julialang.org/  
+  
+* _The Climate Modeling Alliance_\
+  https://clima.caltech.edu/
+  
+* _Tackling Climate Change with Machine Learning_\
+  by David Rolnick et al.\
+  https://arxiv.org/abs/1906.05433 \
+  (has an excellent 708-entry bibliography!)
+    
 ## Carbon footprint calculators
 
 * Carbon footprint calculator\
