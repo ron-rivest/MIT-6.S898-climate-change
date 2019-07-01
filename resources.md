@@ -1,4 +1,4 @@
-# Resources (and possible readings) for MIT 6.S898 Climate Change seminar
+# Resources for MIT 6.S898 Climate Change seminar (Fall 2019)
 
 by Alan Edelman, John Fernandez, and Ron Rivest
 
