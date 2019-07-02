@@ -61,6 +61,10 @@ Also check the "docs" directory for additional material.
 * _A roadmap for rapid decarbonization_\
   by Johan Rockstrom et al.\
   http://www.rescuethatfrog.com/wp-content/uploads/2017/03/Rockstrom-et-al-2017.pdf
+  
+* _Global warming will happen faster than we think_\
+  by Yangyang Xu et al.\
+  https://www.nature.com/magazine-assets/d41586-018-07586-5/d41586-018-07586-5.pdf
      
 ## Activism / Politics / International action
 
