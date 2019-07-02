@@ -83,6 +83,10 @@ This material may also be useful for those wishing to "self-study".
 * _Summary for Policymakers_\
   IPCC, 2018: In Global Warming of 1.5 degrees C.\
   https://www.ipcc.ch/site/assets/uploads/sites/2/2019/05/SR15_SPM_version_report_LR.pdf
+  
+* _Natural climate solutions for the United States_\
+  by Joseph E. Fargione et al.\
+  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6235523/pdf/aat1869.pdf
      
 ## Activism / Politics / International action
 
