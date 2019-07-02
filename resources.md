@@ -60,7 +60,7 @@ Also check the "docs" directory for additional material.
   
 * _A roadmap for rapid decarbonization_\
   by Johan Rockstrom et al.\
-  http://pure.iiasa.ac.at/id/eprint/14498/1/Rockstr%25C3%25B6mEtAl_2017_Science_A%2520roadmap%2520for%2520rapid%2520decarbonization.pdf
+  http://www.rescuethatfrog.com/wp-content/uploads/2017/03/Rockstrom-et-al-2017.pdf
      
 ## Activism / Politics / International action
 
