@@ -53,6 +53,10 @@ Also check the "docs" directory for additional material.
   https://www.motherjones.com/politics/2014/04/oil-subsidies-energy-timeline/
      
 ## Law and Regulation; Policy options 
+
+* _Three years to safeguard our climate_\
+  by Christiana Figueres\
+  https://gspp.berkeley.edu/assets/uploads/research/pdf/Figueres-ThreeYearstoSafeguardOurPlanet-Nature-2017_full.pdf
      
 ## Activism / Politics / International action
 
