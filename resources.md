@@ -37,8 +37,23 @@ This material may also be useful for those wishing to "self-study".
 * _Trajectories of the Earth System in the Anthropocene_\
   by Will Steffen et al.\
   https://www.pnas.org/content/pnas/115/33/8252.full.pdf
+  
+## Climate changes models and simulation  
 
-* Something about models and simulation
+* :white_check_mark: _Climate Change: A Defining Challenge for the 21st Century?_
+  Youtube lecture by Dame Julia Slingo FRS\
+  Giving the Sir Thomas Gresham Annual Lecture 2018.at Gresham College\
+  https://www.youtube.com/watch?v=q1BEQnkdAVE \
+  Emphasizes the uses of simulations.
+  
+* Animations of the Earth's Carbon Cycle\
+  https://www.reddit.com/r/climate/comments/brwskh/animated_diagram_of_the_earths_carbon_cycle_and/
+  
+* _The Julia Programming Language_\
+  https://julialang.org/  
+  
+* _The Climate Modeling Alliance_\
+  https://clima.caltech.edu/
 
   
 ## Impact of climate change  
@@ -102,8 +117,7 @@ This material may also be useful for those wishing to "self-study".
 * Spiral GIF by Ed Hawkins\
   http://www.climate-lab-book.ac.uk/2016/spiralling-global-temperatures/
   
-* Animations of the Earth's Carbon Cycle\
-  https://www.reddit.com/r/climate/comments/brwskh/animated_diagram_of_the_earths_carbon_cycle_and/
+
   
 ## Other MIT material
 
@@ -150,21 +164,13 @@ This material may also be useful for those wishing to "self-study".
   
 ## Computer Science technology applied to Climate Change
 
-* :white_check_mark: _Climate Change: A Defining Challenge for the 21st Century?_
-  Youtube lecture by Dame Julia Slingo FRS\
-  Giving the Sir Thomas Gresham Annual Lecture 2018.at Gresham College\
-  https://www.youtube.com/watch?v=q1BEQnkdAVE \
-  Emphasizes the uses of simulations.
+
   
 * _What can a technologist do about climate change?_\
   by Bret Victor\
   http://worrydream.com/ClimateChange/  
   
-* _The Julia Programming Language_\
-  https://julialang.org/  
-  
-* _The Climate Modeling Alliance_\
-  https://clima.caltech.edu/
+
   
 * :white_check_mark: _Tackling Climate Change with Machine Learning_\
   by David Rolnick et al.\
