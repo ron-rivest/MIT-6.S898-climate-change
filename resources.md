@@ -31,6 +31,10 @@ Also check the "docs" directory for additional material.
 
 * _A Short Introduction to Climate Change_ by Tony Eggleton.
 
+* _Trajectories of the Earth System in the Anthropocene_\
+  by Will Steffen et al.\
+  https://www.pnas.org/content/pnas/115/33/8252.full.pdf
+
 * Something about models and simulation
 
 ## Climate Change technology
