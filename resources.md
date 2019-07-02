@@ -15,6 +15,10 @@ Also check the "docs" directory for additional material.
   by Kerry Emanuel\
   https://www.amazon.com/What-Know-about-Climate-Change/dp/0262535912
   
+* _Climate Science and Climate Risk: A Primer_\
+  by Kerry A. Emanuel\
+  https://eapsweb.mit.edu/sites/default/files/Climate_Primer.pdf
+  
 * _The climate crisis: An introductory guide to climate change_\
   by David Archer and Stefan Rahmstorf\
   https://www.amazon.com/Climate-Crisis-Introductory-Guide-Change/dp/0521407443/ref=sr_1_1
