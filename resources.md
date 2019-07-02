@@ -4,8 +4,8 @@
 
 by Alan Edelman, John Fernandez, and Ron Rivest
 
-These are _potential_ readings and links only; 
-actual assignments for the class will be a subset of these.
+The material that 6.S898 students are expected to read is marked with :white_check_mark:;
+other material is optional/suggested reading.
 
 This material may also be useful for those wishing to "self-study".
 
@@ -13,11 +13,11 @@ This material may also be useful for those wishing to "self-study".
 
 ## General introductory material
 
-* _What we know about climate change_\
+* :white_check_mark: _What we know about climate change_\
   by Kerry Emanuel\
   https://www.amazon.com/What-Know-about-Climate-Change/dp/0262535912
   
-* _Climate Science and Climate Risk: A Primer_\
+* :white_check_mark: _Climate Science and Climate Risk: A Primer_\
   by Kerry A. Emanuel\
   https://eapsweb.mit.edu/sites/default/files/Climate_Primer.pdf
   
