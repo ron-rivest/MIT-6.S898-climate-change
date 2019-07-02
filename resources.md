@@ -1,4 +1,6 @@
-# Resources for MIT 6.S898 Climate Change seminar (Fall 2019)
+# Resources for 
+# MIT 6.S898 Climate Change seminar 
+# Fall 2019
 
 by Alan Edelman, John Fernandez, and Ron Rivest
 
@@ -6,8 +8,6 @@ These are _potential_ readings and links only;
 actual assignments for the class will be a subset of these.
 
 This material may also be useful for those wishing to "self-study".
-
-Also check the "docs" directory for additional material.
 
 (This page needs some restructuring...)
 
@@ -79,6 +79,10 @@ Also check the "docs" directory for additional material.
 * _Global warming will happen faster than we think_\
   by Yangyang Xu et al.\
   https://www.nature.com/magazine-assets/d41586-018-07586-5/d41586-018-07586-5.pdf
+  
+* _Summary for Policymakers_\
+  IPCC, 2018: In Global Warming of 1.5 degrees C.\
+  https://www.ipcc.ch/site/assets/uploads/sites/2/2019/05/SR15_SPM_version_report_LR.pdf
      
 ## Activism / Politics / International action
 
