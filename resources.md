@@ -57,6 +57,10 @@ Also check the "docs" directory for additional material.
 * _Three years to safeguard our climate_\
   by Christiana Figueres\
   https://gspp.berkeley.edu/assets/uploads/research/pdf/Figueres-ThreeYearstoSafeguardOurPlanet-Nature-2017_full.pdf
+  
+* _A roadmap for rapid decarbonization_\
+  by Johan Rockstrom et al.\
+  http://pure.iiasa.ac.at/id/eprint/14498/1/Rockstr%25C3%25B6mEtAl_2017_Science_A%2520roadmap%2520for%2520rapid%2520decarbonization.pdf
      
 ## Activism / Politics / International action
 
