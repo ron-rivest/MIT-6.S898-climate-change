@@ -68,11 +68,11 @@ This material may also be useful for those wishing to "self-study".
      
 ## Law and Regulation; Policy options 
 
-* _Three years to safeguard our climate_\
+* :white_check_mark: _Three years to safeguard our climate_\
   by Christiana Figueres\
   https://gspp.berkeley.edu/assets/uploads/research/pdf/Figueres-ThreeYearstoSafeguardOurPlanet-Nature-2017_full.pdf
   
-* _A roadmap for rapid decarbonization_\
+* :white_check_mark: _A roadmap for rapid decarbonization_\
   by Johan Rockstrom et al.\
   http://www.rescuethatfrog.com/wp-content/uploads/2017/03/Rockstrom-et-al-2017.pdf
   
@@ -95,7 +95,7 @@ This material may also be useful for those wishing to "self-study".
 
 ## Visualizations
 
-* ShowYourStripes\
+* :white_check_mark: ShowYourStripes\
   Gives graphic representation of temperature increase of any location.\
   https://showyourstripes.info/
 
@@ -150,15 +150,15 @@ This material may also be useful for those wishing to "self-study".
   
 ## Computer Science technology applied to Climate Change
 
-* _What can a technologist do about climate change?_\
-  by Bret Victor\
-  http://worrydream.com/ClimateChange/  
-  
-* _Climate Change: A Defining Challenge for the 21st Century?_
+* :white_check_mark: _Climate Change: A Defining Challenge for the 21st Century?_
   Youtube lecture by Dame Julia Slingo FRS\
   Giving the Sir Thomas Gresham Annual Lecture 2018.at Gresham College\
   https://www.youtube.com/watch?v=q1BEQnkdAVE \
   Emphasizes the uses of simulations.
+  
+* _What can a technologist do about climate change?_\
+  by Bret Victor\
+  http://worrydream.com/ClimateChange/  
   
 * _The Julia Programming Language_\
   https://julialang.org/  
@@ -166,18 +166,18 @@ This material may also be useful for those wishing to "self-study".
 * _The Climate Modeling Alliance_\
   https://clima.caltech.edu/
   
-* _Tackling Climate Change with Machine Learning_\
+* :white_check_mark: _Tackling Climate Change with Machine Learning_\
   by David Rolnick et al.\
   https://arxiv.org/abs/1906.05433 \
   (has an excellent 708-entry bibliography!)
     
 ## Carbon footprint calculators
 
-* Carbon footprint calculator\
+* :white_check_mark: Carbon footprint calculator\
   https://www.carbonfootprint.com/calculator.aspx
   
 ## Carbon offset options
 
-* Terrapass\
+* :white_check_mark: Terrapass\
   https://www.terrapass.com/
 
