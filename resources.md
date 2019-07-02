@@ -9,6 +9,8 @@ This material may also be useful for those wishing to "self-study".
 
 Also check the "docs" directory for additional material.
 
+(This page needs some restructuring...)
+
 ## General introductory material
 
 * _What we know about climate change_\
@@ -27,6 +29,7 @@ Also check the "docs" directory for additional material.
   by David Wallace-Wells\
   https://www.amazon.com/Uninhabitable-Earth-Life-After-Warming/dp/0525576703
 
+
 ## Climate Change science
 
 * _A Short Introduction to Climate Change_ by Tony Eggleton.
@@ -36,6 +39,13 @@ Also check the "docs" directory for additional material.
   https://www.pnas.org/content/pnas/115/33/8252.full.pdf
 
 * Something about models and simulation
+
+  
+## Impact of climate change  
+
+* Fourth National Climate Assessment Vol II (Executive Summary)\
+  by U.S. Global Change Research Program\
+  https://www.globalchange.gov/nca4    
 
 ## Climate Change technology
 
@@ -103,7 +113,7 @@ Also check the "docs" directory for additional material.
 * U.S. National Academies\
   http://www8.nationalacademies.org/onpinews/newsitem.aspx?RecordID=06182019\
   http://sites.nationalacademies.org/sites/climate/SITES_190724\
-
+  
 ## Other courses on Climate Change
 
 * edX course on Climate Change from UBC:\
