@@ -174,6 +174,10 @@ This material may also be useful for those wishing to "self-study".
 * MIT Environmental Solutions Initiative (ESI)\
   https://environmentalsolutions.mit.edu/
   
+* _Welcome to Climate Change: Mitigation, Adaptation, Suffering_ \
+  Special issue of MIT Technology Review (May/June 2019)\
+  https://www.technologyreview.com/magazine/2019/05/download/
+  
 ## Other significant sources of information 
 
 * U.S. National Academies\
