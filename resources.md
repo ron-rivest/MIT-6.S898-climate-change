@@ -110,7 +110,7 @@ This material may also be useful for those wishing to "self-study".
 
 * :white_check_mark: _The Social Cost of Carbon Revisited_\
   Robert S. Pindyck, The Journal of Environmental Economics and Management, February 2019.\
-  http://web.mit.edu/rpindyck/www/Papers/SCCRevisitedJEEM2019.pdf
+  http://web.mit.edu/rpindyck/www/Papers/SCCRevisitedJEEM2019.pdf \
   (See also related papers on his web site: http://web.mit.edu/rpindyck/www/papers.htm)
 
 * History of the Oil Depletion Allowance\
