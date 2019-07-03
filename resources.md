@@ -54,14 +54,14 @@ This material may also be useful for those wishing to "self-study".
   
 ## Computer Science technology applied to Climate Change
   
-* _What can a technologist do about climate change?_\
-  by Bret Victor\
-  http://worrydream.com/ClimateChange/  
-  
 * :white_check_mark: _Tackling Climate Change with Machine Learning_\
   by David Rolnick et al.\
   https://arxiv.org/abs/1906.05433 \
   (has an excellent 708-entry bibliography!)
+  
+* _What can a technologist do about climate change?_\
+  by Bret Victor\
+  http://worrydream.com/ClimateChange/
   
 ## Impact and speed of climate change  
 
