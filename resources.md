@@ -86,6 +86,11 @@ This material may also be useful for those wishing to "self-study".
 
 * Solar
 
+  * _New Solar + Battery Price crushes fossil fuels, buries nuclear_\
+    Forbes, July 1, 2019\
+    https://www.forbes.com/sites/jeffmcmahon/2019/07/01/new-solar--battery-price-crushes-fossil-fuels-buries-nuclear/#daddadd5971f
+
+
 * Wind
 
 * Biotech
