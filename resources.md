@@ -105,6 +105,11 @@ This material may also be useful for those wishing to "self-study".
 * Drawdown\
   Evaluates methods for reducing emissions.\
   https://www.drawdown.org/solutions-summary-by-rank
+  
+## Adaptation
+
+* _Climate change adaptation_\
+  https://en.wikipedia.org/wiki/Climate_change_adaptation
 
 ## Uncertainty and Risk Management; Economics; Entrepreneurship
 
@@ -141,6 +146,9 @@ This material may also be useful for those wishing to "self-study".
   
 * _Citizens Climate Lobby_ \
   https://citizensclimatelobby.org/
+  
+* _Beyond Carbon_
+  https://www.beyondcarbon.org/
   
 ## Politics
 
