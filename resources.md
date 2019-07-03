@@ -84,16 +84,17 @@ This material may also be useful for those wishing to "self-study".
 
 ## Mitigation methods
 
-* Solar
+* :white_check_mark: _New Solar + Battery Price crushes fossil fuels, buries nuclear_\
+  Forbes, July 1, 2019\
+  https://www.forbes.com/sites/jeffmcmahon/2019/07/01/new-solar--battery-price-crushes-fossil-fuels-buries-nuclear/#daddadd5971f
 
-  * _New Solar + Battery Price crushes fossil fuels, buries nuclear_\
-    Forbes, July 1, 2019\
-    https://www.forbes.com/sites/jeffmcmahon/2019/07/01/new-solar--battery-price-crushes-fossil-fuels-buries-nuclear/#daddadd5971f
+* _Renewable Electricity Futures Study_\
+  NREL (National Renewable Energy Lab, part of Department of Energy)\
+  https://www.nrel.gov/analysis/re-futures.html
 
-
-* Wind
-
-* Biotech
+* _Renewable Energy_\
+  Wikipedia\
+  https://en.wikipedia.org/wiki/100%25_renewable_energy
 
 * Carbon capture and sequestration
   * Carbon Capture by Howard Herzog\
