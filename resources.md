@@ -53,7 +53,7 @@ This material may also be useful for those wishing to "self-study".
   https://julialang.org/  
 
   
-## Impact of climate change  
+## Impact and speed of climate change  
 
 * Fourth National Climate Assessment Vol II (Executive Summary)\
   by U.S. Global Change Research Program\
@@ -62,6 +62,14 @@ This material may also be useful for those wishing to "self-study".
 * _The Uninhabitable Earth: Life After Warming_\
   by David Wallace-Wells\
   https://www.amazon.com/Uninhabitable-Earth-Life-After-Warming/dp/0525576703
+  
+* :white_check_mark: _Three years to safeguard our climate_\
+  by Christiana Figueres\
+  https://gspp.berkeley.edu/assets/uploads/research/pdf/Figueres-ThreeYearstoSafeguardOurPlanet-Nature-2017_full.pdf
+  
+* _Global warming will happen faster than we think_\
+  by Yangyang Xu et al.\
+  https://www.nature.com/magazine-assets/d41586-018-07586-5/d41586-018-07586-5.pdf
  
 
 ## Climate Change technology
@@ -84,18 +92,12 @@ This material may also be useful for those wishing to "self-study".
   https://www.motherjones.com/politics/2014/04/oil-subsidies-energy-timeline/
      
 ## Law and Regulation; Policy options 
-
-* :white_check_mark: _Three years to safeguard our climate_\
-  by Christiana Figueres\
-  https://gspp.berkeley.edu/assets/uploads/research/pdf/Figueres-ThreeYearstoSafeguardOurPlanet-Nature-2017_full.pdf
   
 * :white_check_mark: _A roadmap for rapid decarbonization_\
   by Johan Rockstrom et al.\
   http://www.rescuethatfrog.com/wp-content/uploads/2017/03/Rockstrom-et-al-2017.pdf
   
-* _Global warming will happen faster than we think_\
-  by Yangyang Xu et al.\
-  https://www.nature.com/magazine-assets/d41586-018-07586-5/d41586-018-07586-5.pdf
+
   
 * _Summary for Policymakers_\
   IPCC, 2018: In Global Warming of 1.5 degrees C.\
@@ -165,14 +167,10 @@ This material may also be useful for those wishing to "self-study".
   https://www.amazon.com/ideas/amzn1.account.AFUOV4KMQ2VHZNDXKWVJWT2KEALA/24A2G2STP9NC6?ref=idea_share
   
 ## Computer Science technology applied to Climate Change
-
-
   
 * _What can a technologist do about climate change?_\
   by Bret Victor\
   http://worrydream.com/ClimateChange/  
-  
-
   
 * :white_check_mark: _Tackling Climate Change with Machine Learning_\
   by David Rolnick et al.\
