@@ -110,6 +110,12 @@ This material may also be useful for those wishing to "self-study".
 
 * _Climate change adaptation_\
   https://en.wikipedia.org/wiki/Climate_change_adaptation
+  
+## Geoengineering
+
+* _Geoengineer the Planet? More Scientists Now Say It Must Be an Option_ \
+  by Fred Pearce.  Yale Environment 360 (May 29, 2019) \
+  https://e360.yale.edu/features/geoengineer-the-planet-more-scientists-now-say-it-must-be-an-option
 
 ## Uncertainty and Risk Management; Economics; Entrepreneurship
 
