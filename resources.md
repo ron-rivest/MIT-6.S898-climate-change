@@ -102,6 +102,10 @@ This material may also be useful for those wishing to "self-study".
 
 ## Uncertainty and Risk Management; Economics
 
+* _The Social Cost of Carbon: How to do the Math\
+  J.M. Foster, NYTimes Sep. 18, 2012\
+  https://green.blogs.nytimes.com/2012/09/18/the-social-cost-of-carbon-how-to-do-the-math/
+
 * History of the Oil Depletion Allowance\
   https://www.motherjones.com/politics/2014/04/oil-subsidies-energy-timeline/
      
