@@ -116,7 +116,7 @@ This material may also be useful for those wishing to "self-study".
 * History of the Oil Depletion Allowance\
   https://www.motherjones.com/politics/2014/04/oil-subsidies-energy-timeline/
      
-## Law and Regulation; Policy options 
+## Policy options -- getting from here to there
   
 * :white_check_mark: _A roadmap for rapid decarbonization_\
   by Johan Rockstrom et al.\
@@ -132,7 +132,6 @@ This material may also be useful for those wishing to "self-study".
      
 ## Activism / Politics / International action
 
-## Social media
 
 
 ## Visualizations
@@ -175,11 +174,13 @@ This material may also be useful for those wishing to "self-study".
   (Also good links in comments.)
   https://www.reddit.com/r/climatechange/comments/byzj3g/a_big_climate_change_reading_list/ \
   
-## Other websites on climate change
+## Other websites and social media on climate change
   
 * Climate Feedback
   Evaluates media stories about climate change.\
   https://climatefeedback.org/
+  
+* _Twitter_: #climatechange https://twitter.com/search?q=%23climatechange  
   
 ## Information on individual action
     
@@ -188,4 +189,6 @@ This material may also be useful for those wishing to "self-study".
 
 * :white_check_mark: Terrapass (carbon offset)\
   https://www.terrapass.com/
+
+
 
