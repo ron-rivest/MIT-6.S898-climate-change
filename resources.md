@@ -25,9 +25,6 @@ This material may also be useful for those wishing to "self-study".
   by David Archer and Stefan Rahmstorf\
   https://www.amazon.com/Climate-Crisis-Introductory-Guide-Change/dp/0521407443/ref=sr_1_1
 
-* _The Uninhabitable Earth: Life After Warming_\
-  by David Wallace-Wells\
-  https://www.amazon.com/Uninhabitable-Earth-Life-After-Warming/dp/0525576703
 
 
 ## Climate Change science
@@ -60,7 +57,12 @@ This material may also be useful for those wishing to "self-study".
 
 * Fourth National Climate Assessment Vol II (Executive Summary)\
   by U.S. Global Change Research Program\
-  https://www.globalchange.gov/nca4    
+  https://www.globalchange.gov/nca4   
+
+* _The Uninhabitable Earth: Life After Warming_\
+  by David Wallace-Wells\
+  https://www.amazon.com/Uninhabitable-Earth-Life-After-Warming/dp/0525576703
+ 
 
 ## Climate Change technology
 
