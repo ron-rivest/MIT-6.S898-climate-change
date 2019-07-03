@@ -130,10 +130,24 @@ This material may also be useful for those wishing to "self-study".
   by Joseph E. Fargione et al.\
   https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6235523/pdf/aat1869.pdf
      
-## Activism / Politics / International action
+## Activism
 
 * _350.org_ \
   https://350.org/
+  
+* _Citizens Climate Lobby_ \
+  https://citizensclimatelobby.org/
+  
+## Politics
+
+* _Where 2020 Democrats Stand on Climate Change_ \
+  Washington Post (updated June 25, 2019) \
+  https://www.washingtonpost.com/graphics/politics/policy-2020/climate-change/
+  
+## International Agreements
+
+* _Paris Agreement_ \
+  https://en.wikipedia.org/wiki/Paris_Agreement
 
 ## Visualizations
 
