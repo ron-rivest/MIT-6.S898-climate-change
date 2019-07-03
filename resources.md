@@ -43,14 +43,14 @@ This material may also be useful for those wishing to "self-study".
   https://www.youtube.com/watch?v=q1BEQnkdAVE \
   Emphasizes the uses of simulations.
   
+* _The Climate Modeling Alliance_\
+  https://clima.caltech.edu/
+  
 * Animations of the Earth's Carbon Cycle\
   https://www.reddit.com/r/climate/comments/brwskh/animated_diagram_of_the_earths_carbon_cycle_and/
   
 * _The Julia Programming Language_\
   https://julialang.org/  
-  
-* _The Climate Modeling Alliance_\
-  https://clima.caltech.edu/
 
   
 ## Impact of climate change  
