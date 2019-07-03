@@ -144,6 +144,10 @@ This material may also be useful for those wishing to "self-study".
   Washington Post (updated June 25, 2019) \
   https://www.washingtonpost.com/graphics/politics/policy-2020/climate-change/
   
+* _Trump dismisses need for action on climate change_ \
+  Independent (June 30, 2019) \
+  https://www.independent.co.uk/news/world/americas/trump-news-latest-g20-climate-change-global-warming-us-japan-a8980156.html
+  
 ## International Agreements
 
 * _Paris Agreement_ \
