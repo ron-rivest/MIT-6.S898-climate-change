@@ -108,9 +108,10 @@ This material may also be useful for those wishing to "self-study".
 
 ## Uncertainty and Risk Management; Economics
 
-* _The Social Cost of Carbon: How to do the Math\
-  J.M. Foster, NYTimes Sep. 18, 2012\
-  https://green.blogs.nytimes.com/2012/09/18/the-social-cost-of-carbon-how-to-do-the-math/
+* :white_check_mark: _The Social Cost of Carbon Revisited_\
+  Robert S. Pindyck, The Journal of Environmental Economics and Management, February 2019.\
+  http://web.mit.edu/rpindyck/www/Papers/SCCRevisitedJEEM2019.pdf
+  (See also related papers on his web site: http://web.mit.edu/rpindyck/www/papers.htm)
 
 * History of the Oil Depletion Allowance\
   https://www.motherjones.com/politics/2014/04/oil-subsidies-energy-timeline/
