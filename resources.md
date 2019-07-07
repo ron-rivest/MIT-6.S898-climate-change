@@ -153,8 +153,12 @@ This material may also be useful for those wishing to "self-study".
 * _Citizens Climate Lobby_ \
   https://citizensclimatelobby.org/
   
-* _Beyond Carbon_
+* _Beyond Carbon_ \
   https://www.beyondcarbon.org/
+  
+* _Greta Thunberg_ \
+  https://twitter.com/GretaThunberg \
+  https://en.wikipedia.org/wiki/Greta_Thunberg
   
 ## Politics
 
