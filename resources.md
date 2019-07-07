@@ -229,6 +229,10 @@ This material may also be useful for those wishing to "self-study".
   
 ## Information on individual action
     
+* _If you care about your impact on the planet, you should stop flying_ \
+  By Natasha Frost, Quartz, July 3, 2019 \
+  https://qz.com/1657067/should-you-stop-flying/
+  
 * :white_check_mark: Carbon footprint calculator\
   https://www.carbonfootprint.com/calculator.aspx
 
