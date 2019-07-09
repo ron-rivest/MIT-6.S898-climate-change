@@ -2,7 +2,7 @@
 # MIT 6.S898 Climate Change seminar
 ## Fall 2019
 
-by Alan Edelman, John Fernandez, and Ron Rivest
+by Alan Edelman, John Fern&#xE1;ndez, and Ron Rivest
 
 The material that 6.S898 students are expected to read is marked with :white_check_mark:;
 other material is optional/suggested reading.
@@ -26,7 +26,6 @@ This material may also be useful for those wishing to "self-study".
   https://www.amazon.com/Climate-Crisis-Introductory-Guide-Change/dp/0521407443/ref=sr_1_1
 
 
-
 ## Climate Change science
 
 * _A Short Introduction to Climate Change_ by Tony Eggleton.
@@ -34,6 +33,7 @@ This material may also be useful for those wishing to "self-study".
 * _Trajectories of the Earth System in the Anthropocene_\
   by Will Steffen et al.\
   https://www.pnas.org/content/pnas/115/33/8252.full.pdf
+  
   
 ## Climate changes models and simulation  
 
@@ -52,6 +52,7 @@ This material may also be useful for those wishing to "self-study".
 * _The Julia Programming Language_\
   https://julialang.org/  
   
+  
 ## Computer Science technology applied to Climate Change
   
 * :white_check_mark: _Tackling Climate Change with Machine Learning_\
@@ -62,6 +63,7 @@ This material may also be useful for those wishing to "self-study".
 * _What can a technologist do about climate change?_\
   by Bret Victor\
   http://worrydream.com/ClimateChange/
+  
   
 ## Impact and speed of climate change  
 
@@ -106,16 +108,19 @@ This material may also be useful for those wishing to "self-study".
   Evaluates methods for reducing emissions.\
   https://www.drawdown.org/solutions-summary-by-rank
   
+  
 ## Adaptation
 
 * _Climate change adaptation_\
   https://en.wikipedia.org/wiki/Climate_change_adaptation
+  
   
 ## Geoengineering
 
 * _Geoengineer the Planet? More Scientists Now Say It Must Be an Option_ \
   by Fred Pearce.  Yale Environment 360 (May 29, 2019) \
   https://e360.yale.edu/features/geoengineer-the-planet-more-scientists-now-say-it-must-be-an-option
+
 
 ## Uncertainty and Risk Management; Economics; Entrepreneurship
 
@@ -131,6 +136,7 @@ This material may also be useful for those wishing to "self-study".
   MIT News (June 25, 2019) \
   http://news.mit.edu/2019/greentown-labs-0625
      
+     
 ## Policy options -- getting from here to there
   
 * :white_check_mark: _A roadmap for rapid decarbonization_\
@@ -144,6 +150,7 @@ This material may also be useful for those wishing to "self-study".
 * _Natural climate solutions for the United States_\
   by Joseph E. Fargione et al.\
   https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6235523/pdf/aat1869.pdf
+     
      
 ## Activism
 
@@ -160,6 +167,7 @@ This material may also be useful for those wishing to "self-study".
   https://twitter.com/GretaThunberg \
   https://en.wikipedia.org/wiki/Greta_Thunberg
   
+  
 ## Politics
 
 * _Where 2020 Democrats Stand on Climate Change_ \
@@ -170,10 +178,12 @@ This material may also be useful for those wishing to "self-study".
   Independent (June 30, 2019) \
   https://www.independent.co.uk/news/world/americas/trump-news-latest-g20-climate-change-global-warming-us-japan-a8980156.html
   
+  
 ## International Agreements
 
 * _Paris Agreement_ \
   https://en.wikipedia.org/wiki/Paris_Agreement
+
 
 ## Visualizations
 
@@ -183,7 +193,8 @@ This material may also be useful for those wishing to "self-study".
 
 * Spiral GIF by Ed Hawkins\
   http://www.climate-lab-book.ac.uk/2016/spiralling-global-temperatures/
-  
+ 
+ 
 ## Other MIT material
 
 * MIT Climate\
@@ -196,11 +207,13 @@ This material may also be useful for those wishing to "self-study".
   Special issue of MIT Technology Review (May/June 2019)\
   https://www.technologyreview.com/magazine/2019/05/download/
   
+  
 ## Other significant sources of information 
 
 * U.S. National Academies\
   http://www8.nationalacademies.org/onpinews/newsitem.aspx?RecordID=06182019\
   http://sites.nationalacademies.org/sites/climate/SITES_190724\
+  
   
 ## Other courses and reading lists on Climate Change
 
@@ -219,6 +232,7 @@ This material may also be useful for those wishing to "self-study".
   (Also good links in comments.)
   https://www.reddit.com/r/climatechange/comments/byzj3g/a_big_climate_change_reading_list/ \
   
+  
 ## Other websites and social media on climate change
   
 * Climate Feedback
@@ -226,6 +240,7 @@ This material may also be useful for those wishing to "self-study".
   https://climatefeedback.org/
   
 * _Twitter_: #climatechange https://twitter.com/search?q=%23climatechange  
+  
   
 ## Information on individual action
     
@@ -238,6 +253,3 @@ This material may also be useful for those wishing to "self-study".
 
 * :white_check_mark: Terrapass (carbon offset)\
   https://www.terrapass.com/
-
-
-
