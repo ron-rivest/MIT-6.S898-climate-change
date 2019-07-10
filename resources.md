@@ -58,7 +58,8 @@ This material may also be useful for those wishing to "self-study".
 * :white_check_mark: _Tackling Climate Change with Machine Learning_\
   by David Rolnick et al.\
   https://arxiv.org/abs/1906.05433 \
-  (has an excellent 708-entry bibliography!)
+  (has an excellent 708-entry bibliography!)\
+  (Also see their web site: https://www.climatechange.ai/ and the ICML 2019 link)
   
 * _What can a technologist do about climate change?_\
   by Bret Victor\
