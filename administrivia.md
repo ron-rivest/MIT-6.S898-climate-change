@@ -5,6 +5,7 @@ by Alan Edelman, John Fernández, and Ron Rivest
 
 **Catalog description**:
 
+______
 6.S898 Climate Change seminar
 ______
 Graduate (Fall) 
@@ -17,23 +18,26 @@ climate models and simulations, decision-making under uncertainty, economics, mi
 strategies, adaptation strategies, geoengineering, policy-making, messaging, politics.  Course includes
 reading and discussion of recent publications and attending guest lectures.  
 Involves project formulation, culminating in a presentation of a research project which might include a paper, a blog, software etc.
-Enrollment limited and by permission.
-R. Rivest, A. Edelman, J. Fern&#x31;ndez
-Staff
+Enrollment limited and by permission.\
+R. Rivest, A. Edelman, J. Fern&#xE1;ndez
+______
 
 **Faculty and Staff**:
 
-Prof. Alan Edelman
+* Prof. Alan Edelman
 
-Prof. John Fernández
+* Prof. John Fernández
 
-Prof. Ron Rivest
+* Prof. Ron Rivest
 
-TA: TBD (if any)
+* TA: TBD (if any)
 
-Staff: Debbie Goodwin (?)
+* Staff: Debbie Goodwin (?)
 
-Enrollment is limited (to about 16--20).
+**Enrollment**:
+
+Enrollment is limited (to about 16--20).  A questionaire will be used to select
+students for the class.  No prior background in climate change is required or expected.
 
 **Website**
 
