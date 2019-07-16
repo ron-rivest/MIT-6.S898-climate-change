@@ -218,6 +218,11 @@ This material may also be useful for those wishing to "self-study".
   
 ## Other courses and reading lists on Climate Change
 
+* edX course on _Climate Change: The Science and Global Impact_\
+  by Michael Mann (Penn State)\
+  https://www.edx.org/course/climate-change-the-science-and-global-impact
+  (starts August 31st)
+  
 * edX course on Climate Change from UBC:\
   (Also linked to from MIT Climate site.)\
   https://courses.edx.org/courses/course-v1:UBCx+Climate1x+2T2017/course/
