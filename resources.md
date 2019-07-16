@@ -37,6 +37,10 @@ This material may also be useful for those wishing to "self-study".
   
 ## Climate changes models and simulation  
 
+* _Climate models_\
+  Wikipedia\
+  https://en.wikipedia.org/wiki/Climate_model
+
 * :white_check_mark: _Climate Change: A Defining Challenge for the 21st Century?_
   Youtube lecture by Dame Julia Slingo FRS\
   Giving the Sir Thomas Gresham Annual Lecture 2018.at Gresham College\
