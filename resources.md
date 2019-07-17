@@ -259,9 +259,9 @@ This material may also be useful for those wishing to "self-study".
   https://qz.com/1657067/should-you-stop-flying/
   
 * :white_check_mark: Carbon footprint calculators and carbon offsets\
-  https://www.carbonfootprint.com/calculator.aspx\
-  https://www.conservation.org/act/carboncalculator/calculate-your-carbon-footprint.aspx#/\
-  https://www3.epa.gov/carbon-footprint-calculator/\
-  https://trees.org/carboncalculator/
+  https://www.carbonfootprint.com/calculator.aspx \
+  https://www.conservation.org/act/carboncalculator/calculate-your-carbon-footprint.aspx#/ \
+  https://www3.epa.gov/carbon-footprint-calculator/ \
+  https://trees.org/carboncalculator/ \
   https://www.terrapass.com/
 
