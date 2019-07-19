@@ -11,7 +11,8 @@ aspect of climate change, including aspects not otherwise covered in the course.
 For example, a project might involve:
 * historical research on some aspect of climate change
 * field research
-* modeling development or simulation
+* model development or model simulation
+* a web-hosted queryable database of successful emission mitigation programs
 * a study of policy options relating to one aspect of climate change
 * a study of resistance to policy
 * a study of messaging and presentation of climate change policy options
