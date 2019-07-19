@@ -207,11 +207,11 @@ This material may also be useful for those wishing to "self-study".
 
 ## Visualizations
 
-* :white_check_mark: ShowYourStripes\
+* :white_check_mark: _ShowYourStripes_\
   Gives graphic representation of temperature increase of any location.\
   https://showyourstripes.info/
   
-* :white_check_mark: Mapped: How every part of the world has warmed - and could continue to warm
+* :white_check_mark: _Mapped: How every part of the world has warmed - and could continue to warm_\
   https://www.carbonbrief.org/mapped-how-every-part-of-the-world-has-warmed-and-could-continue-to-warm
 
 * Spiral GIF by Ed Hawkins\
@@ -268,7 +268,7 @@ This material may also be useful for those wishing to "self-study".
   https://climatefeedback.org/
   
 * _Twitter_\
-  #climatechange https://twitter.com/search?q=%23climatechange 
+  #climatechange https://twitter.com/search?q=%23climatechange \
   Dr. Katherine Hayhoe's list of 2000+ scientists who study climate https://twitter.com/KHayhoe/lists/scientists-who-do-climate
   
   
