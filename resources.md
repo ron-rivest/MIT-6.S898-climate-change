@@ -51,7 +51,7 @@ This material may also be useful for those wishing to "self-study".
   https://clima.caltech.edu/
   
 * Animations of the Earth's Carbon Cycle\
-  https://www.reddit.com/r/climate/comments/brwskh/animated_diagram_of_the_earths_carbon_cycle_and/
+  https://www.youtube.com/watch?time_continue=1&v=dwVsD9CiokY
   
 * _The Julia Programming Language_\
   https://julialang.org/  
