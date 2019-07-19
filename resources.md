@@ -60,14 +60,16 @@ This material may also be useful for those wishing to "self-study".
   https://www.youtube.com/watch?time_continue=1&v=dwVsD9CiokY
   
 * _Climate model codes (in order of increasing complexity)_\
-  * Brian Rose (University at Albany)'s `climlab`: process-oriented climate modeling
+  * Brian Rose (University at Albany)'s `climlab`: process-oriented climate modeling\
+    A helpful framework for building your own simple climate model from the bottom-up
     https://climlab.readthedocs.io/en/latest/intro.html
 
-  * University of Exeter's `isca`: a framework for idealized global circulation modelling
+  * University of Exeter's `isca`: a framework for idealized global circulation modelling\
+    The kind of climate model used to test climate dynamics hypotheses without all the complications of the real system
     https://github.com/ExeClim/Isca
     
-  * The National Center for Atmospheric Research's *Community Earth System Model*
-    This is a world-class climate model and is the caliber of model used to inform policy makers
+  * The National Center for Atmospheric Research's *Community Earth System Model*\
+    This is a world-class climate model and is the caliber of model used to inform policy makers\
     http://www.cesm.ucar.edu/
   
 ## Computer Science technology applied to Climate Change
