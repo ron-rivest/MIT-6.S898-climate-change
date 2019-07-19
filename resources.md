@@ -59,7 +59,7 @@ This material may also be useful for those wishing to "self-study".
 * _Animations of the Earth's Carbon Cycle_\
   https://www.youtube.com/watch?time_continue=1&v=dwVsD9CiokY
   
-* _Climate model codes (in order of increasing complexity)_\
+* _Climate model codes (in order of increasing complexity)_
   * Brian Rose (University at Albany)'s `climlab`: process-oriented climate modeling\
     A helpful framework for building your own simple climate model from the bottom-up
     https://climlab.readthedocs.io/en/latest/intro.html
