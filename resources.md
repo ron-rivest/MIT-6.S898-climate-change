@@ -47,15 +47,28 @@ This material may also be useful for those wishing to "self-study".
   https://www.youtube.com/watch?v=q1BEQnkdAVE \
   Emphasizes the uses of simulations.
   
+* _Interactive toy climate models_\
+  http://forecast.uchicago.edu/models.html
+  
 * _The Climate Modeling Alliance_\
   https://clima.caltech.edu/
-  
-* Animations of the Earth's Carbon Cycle\
-  https://www.youtube.com/watch?time_continue=1&v=dwVsD9CiokY
   
 * _The Julia Programming Language_\
   https://julialang.org/  
   
+* _Animations of the Earth's Carbon Cycle_\
+  https://www.youtube.com/watch?time_continue=1&v=dwVsD9CiokY
+  
+* _Climate model codes (in order of increasing complexity)_\
+  * Brian Rose (University at Albany)'s `climlab`: process-oriented climate modeling
+    https://climlab.readthedocs.io/en/latest/intro.html
+
+  * University of Exeter's `isca`: a framework for idealized global circulation modelling
+    https://github.com/ExeClim/Isca
+    
+  * The National Center for Atmospheric Research's *Community Earth System Model*
+    This is a world-class climate model and is the caliber of model used to inform policy makers
+    http://www.cesm.ucar.edu/
   
 ## Computer Science technology applied to Climate Change
   
