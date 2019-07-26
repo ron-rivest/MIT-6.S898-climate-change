@@ -106,6 +106,8 @@ This material may also be useful for those wishing to "self-study".
   by Yangyang Xu et al.\
   https://www.nature.com/magazine-assets/d41586-018-07586-5/d41586-018-07586-5.pdf
  
+* Maps of Extreme Heat from the Climate Impact Lab
+  http://www.impactlab.org/map/
 
 ## Mitigation methods
 
