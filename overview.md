@@ -28,9 +28,9 @@ ______
 
 * Prof. John Fernández
 
-* Prof. Ron Rivest
+* Prof. Ron Rivest (
 
-* TA: TBD (if any)
+* TA: Henri Drake (hdrake at mit.edu)
 
 * Staff: Debbie Goodwin (?)
 
