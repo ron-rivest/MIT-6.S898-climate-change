@@ -19,7 +19,7 @@ For example, a project might involve:
 * ...
 
 The project deadlines are:
-* by ____: identify team and probable topic
+* by ____: identify team and three possible topics
 * by ____: submit nominal team and topic
 * by ____: submit 1-2 page (or equivalent) project proposal
 * by ____: meet with staff at least twice about your project
