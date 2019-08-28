@@ -36,7 +36,7 @@ ______
 
 **Enrollment**:
 
-Enrollment is limited (to about 16--25). This [google form questionaire](https://forms.gle/N9iSj8a5VWyPhACE8) will be used to select
+Enrollment is limited (to about 16–20). This [google form questionaire](https://forms.gle/N9iSj8a5VWyPhACE8) will be used to select
 students for the class.  No prior background in climate change is required or expected.
 
 **Website**
