@@ -30,7 +30,7 @@ ______
 
 * Prof. Ron Rivest
 
-* TA: Henri Drake (hdrake at mit.edu)
+* TA: [Henri Drake](hdrake.github.io) (hdrake at mit.edu)
 
 * Staff: Debbie Goodwin (?)
 
