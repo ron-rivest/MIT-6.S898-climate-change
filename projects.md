@@ -8,15 +8,20 @@ one-person projects).
 
 We are very open to the style and topic for these projects; they may involve any
 aspect of climate change, including aspects not otherwise covered in the course.
-For example, a project might involve:
+For example, a project might involve the following general topics:
 * historical research on some aspect of climate change
 * field research
 * model development or model simulation
-* a web-hosted queryable database of successful emission mitigation programs
 * a study of policy options relating to one aspect of climate change
 * a study of resistance to policy
 * a study of messaging and presentation of climate change policy options
 * ...
+
+Some concrete examples of potential final projects are listed below:
+* a web-hosted queryable database of successful emission mitigation programs
+* a sculpture of Earth that showcases regional impacts of climate change (e.g. for display on MIT's campus)
+* a simulation investigating the climate impacts of the entire Amazon Rainforest burning down
+* a report on the impact of a progressive carbon tax on energy systems, global emissions, and climate
 
 The project deadlines are:
 * by ____: identify team and 2-3 possible topics
