@@ -28,7 +28,7 @@ ______
 
 * Prof. John Fernández
 
-* Prof. Ron Rivest (
+* Prof. Ron Rivest
 
 * TA: Henri Drake (hdrake at mit.edu)
 
