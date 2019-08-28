@@ -24,7 +24,7 @@ Some concrete examples of potential final projects are listed below:
 * a report on the impact of a progressive carbon tax on energy systems, global emissions, and climate
 * ...
 
-If you are unsure whether a potential topic would be appropriate, feel free to contact the TA (Henri Drake, hdrake at mit.edu).
+For inspiration, we recommend students browse our [list of resources](https://github.com/ron-rivest/MIT-6.S898-climate-change/blob/master/resources.md). If you are unsure whether a potential topic would be appropriate, feel free to contact the TA (Henri Drake, hdrake at mit.edu).
 
 The project deadlines are:
 * by ____: identify team and 2-3 possible topics
@@ -33,8 +33,6 @@ The project deadlines are:
 * by ____: meet with staff at least twice about your project
 * by ____: present your project to the class
 * by ____: (last day of class) final project writeup due
-
-
 
 
 
