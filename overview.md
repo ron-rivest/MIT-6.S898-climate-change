@@ -58,10 +58,13 @@ The following is a brief syllabus, with the number of classes per topic in paren
     (4) Physical Science
         (2) Climate Physics and Chemistry
         (2) Climate Dynamics and Paleoclimate
-    (7) Technical Approaches
-        (3) Modeling and Simulation
+    (3) Modeling and Simulation
+        (1) Physical Climate Modelling
+        (1) Economic Models
+        (1) Energy System Models
+    (4) Impacts, Adaptation, and Mitigation
         (2) Impacts, Uncertainty, and Risk Management
-        (2) Mitigation
+        (2) Adaptation and Mitigation
     (4) Policy options
         (2) Economics
         (2) Law
