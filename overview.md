@@ -51,9 +51,26 @@ The class will meet twice a week, on Tuesday (room TBD) and on Fridays (room 32-
 The Tuesday class will be seminar-style (students presenting and discussing papers).
 The Friday class will feature many guest speakers (TBD).(material to be added)
 
+**Brief Syllabus**
+The following is a brief syllabus, with the number of classes per topic in parentheses. A more detailed syllabus will be posted shortly.
+
+    (3) Introduction
+    (4) Physical Science
+        (2) Climate Physics and Chemistry
+        (2) Climate Dynamics and Paleoclimate
+    (7) Technical Approaches
+        (3) Modeling and Simulation
+        (2) Impacts, Uncertainty, and Risk Management
+        (2) Mitigation
+    (4) Policy options
+        (2) Economics
+        (2) Law
+    (4) Activism / Politics / International action
+    (3) Project Presentations
+    (25) TOTAL
+
 **Discussion and Announcements**
 
 This term we will be using Piazza for class discussion. The system is highly catered to getting you help fast and efficiently from classmates, the TA, and the instructors. Rather than emailing questions to the teaching staff, I encourage you to post your questions on Piazza. If you have any problems or feedback for the developers, email team@piazza.com.
 
 Find our class page at: https://piazza.com/mit/fall2019/6s898/home
-
