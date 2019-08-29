@@ -55,14 +55,13 @@ The Friday class will feature many guest speakers (TBD).(material to be added)
 
 The following is a brief syllabus, with the approximate number of classes per topic in parentheses. A more detailed syllabus will be posted shortly.
 
-    (3) Introduction
+    (1) Introduction
     (4) Physical Science
         (2) Climate Physics and Chemistry
         (2) Climate Dynamics and Paleoclimate
-    (3) Modeling and Simulation
-        (1) Physical Climate Modelling
-        (1) Economic Models
-        (1) Energy System Models
+    (5) Modeling and Simulation
+        (3) Physical Climate Modelling
+        (2) Economic and Energy System Models
     (4) Impacts, Adaptation, and Mitigation
         (2) Impacts, Uncertainty, and Risk Management
         (2) Adaptation and Mitigation
