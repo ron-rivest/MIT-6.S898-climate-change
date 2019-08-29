@@ -22,7 +22,7 @@ Some concrete examples of potential final projects are listed below:
 * a sculpture of Earth that showcases regional impacts of climate change (e.g. for display on MIT's campus)
 * a simulation investigating the climate impacts of the entire Amazon Rainforest burning down
 * a report on the impact of a progressive carbon tax on energy systems, global emissions, and climate
-* ...
+* ... (more examples coming soon)
 
 For inspiration, we recommend students browse our [list of resources](https://github.com/ron-rivest/MIT-6.S898-climate-change/blob/master/resources.md). If you are unsure whether a potential topic would be appropriate, feel free to contact the TA (Henri Drake, hdrake at mit.edu).
 
