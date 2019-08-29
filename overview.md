@@ -53,7 +53,7 @@ The Friday class will feature many guest speakers (TBD).(material to be added)
 
 **Brief Syllabus**
 
-The following is a brief syllabus, with the approximate number of classes per topic in parentheses. A more detailed syllabus will be posted shortly.
+The following is a brief syllabus, where the number of class sessions covering each topic is shown in parentheses. The ordering and exact weighting of each topic depends on the scheduling of guest lecturers. A more detailed syllabus, including a preliminary list of guest lecturers and assigned readings, will be posted shortly.
 
     (1) Introduction
     (4) Physical Science
