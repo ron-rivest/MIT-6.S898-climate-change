@@ -47,7 +47,7 @@ https://github.com/ron-rivest/MIT-6.S898-climate-change
 
 **Format**:
 
-The class will meet twice a week, on Tuesday (room TBD) and on Fridays (room 32-123) from 1:00pm—2:30pm.
+The class will meet twice a week, on Tuesday (room TBD) and on Fridays (room 6-120) from 1:00pm—2:30pm.
 The Tuesday class will be seminar-style (students presenting and discussing papers).
 The Friday class will feature many guest speakers (TBD).(material to be added)
 
