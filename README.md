@@ -10,3 +10,6 @@ Information about the final projects can be found on the [projects page](https:/
 A list of climate change-related resources will be continuously updated on the [resources page](https://github.com/ron-rivest/MIT-6.S898-climate-change/blob/master/resources.md) over the course of the seminar.
 
 The course Piazza page is [here](https://piazza.com/mit/fall2019/6s898/home).
+
+The first class is Friday, September 6th, in room 6-120.  Enrollment is by permission.
+Attendance at the first class is required if you wish to enroll.
