@@ -17,7 +17,7 @@ This material may also be useful for those wishing to "self-study".
   by Kerry Emanuel\
   https://www.amazon.com/What-Know-about-Climate-Change/dp/0262535912
   
-* :white_check_mark: _Climate Science and Climate Risk: A Primer_\
+* _Climate Science and Climate Risk: A Primer_\
   by Kerry A. Emanuel\
   https://eapsweb.mit.edu/sites/default/files/Climate_Primer.pdf
   
@@ -34,12 +34,14 @@ This material may also be useful for those wishing to "self-study".
   by Will Steffen et al.\
   https://www.pnas.org/content/pnas/115/33/8252.full.pdf
   
+* _Why scientists think 100% of global warming is due to humans_\ by Zeke Hausfather
+  https://www.carbonbrief.org/analysis-why-scientists-think-100-of-global-warming-is-due-to-humans
   
 ## Climate changes models and simulation  
 
-* _Climate models_\
-  Wikipedia\
-  https://en.wikipedia.org/wiki/Climate_model
+* :white_check_mark: _How do climate models work?_
+  An in-depth but accessible Q&A that answers the most frequent questions about climate models in a pedagogical order.
+  https://www.carbonbrief.org/qa-how-do-climate-models-work
 
 * :white_check_mark: _Climate Change: A Defining Challenge for the 21st Century?_
   Youtube lecture by Dame Julia Slingo FRS\
@@ -87,12 +89,11 @@ This material may also be useful for those wishing to "self-study".
   by Bret Victor\
   http://worrydream.com/ClimateChange/
   
-  
-## Impact and speed of climate change  
+## Impact and speed of climate change
 
 * Fourth National Climate Assessment Vol II (Executive Summary)\
   by U.S. Global Change Research Program\
-  https://www.globalchange.gov/nca4   
+  https://www.globalchange.gov/nca4
 
 * _The Uninhabitable Earth: Life After Warming_\
   by David Wallace-Wells\
@@ -108,6 +109,10 @@ This material may also be useful for those wishing to "self-study".
  
 * Maps of Extreme Heat from the Climate Impact Lab
   http://www.impactlab.org/map/
+  
+* _How climate change affects extreme weather around the world_\
+  Interactive map from Carbonbrief
+  https://www.carbonbrief.org/mapped-how-climate-change-affects-extreme-weather-around-the-world
 
 ## Mitigation methods
 
@@ -132,6 +137,10 @@ This material may also be useful for those wishing to "self-study".
 * Drawdown\
   Evaluates methods for reducing emissions.\
   https://www.drawdown.org/solutions-summary-by-rank
+  
+* Integrated Assessment Models\
+  These models are used to answer central questions about climate change, from how the world could avoid 1.5C of global warming at the lowest cost, through to the implications of countries’ current pledges to cut emissions.
+  https://www.carbonbrief.org/qa-how-integrated-assessment-models-are-used-to-study-climate-change
   
   
 ## Adaptation
