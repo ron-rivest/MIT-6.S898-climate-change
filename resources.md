@@ -34,7 +34,7 @@ This material may also be useful for those wishing to "self-study".
   by Will Steffen et al.\
   https://www.pnas.org/content/pnas/115/33/8252.full.pdf
   
-* _Why scientists think 100% of global warming is due to humans_\ by Zeke Hausfather
+* _Why scientists think 100% of global warming is due to humans_ by Zeke Hausfather\
   https://www.carbonbrief.org/analysis-why-scientists-think-100-of-global-warming-is-due-to-humans
   
 ## Climate changes models and simulation  
