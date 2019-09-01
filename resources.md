@@ -107,7 +107,7 @@ This material may also be useful for those wishing to "self-study".
   by Yangyang Xu et al.\
   https://www.nature.com/magazine-assets/d41586-018-07586-5/d41586-018-07586-5.pdf
  
-* Maps of Extreme Heat from the Climate Impact Lab
+* Maps of Extreme Heat from the Climate Impact Lab\
   http://www.impactlab.org/map/
   
 * _How climate change affects extreme weather around the world_\
@@ -154,7 +154,6 @@ This material may also be useful for those wishing to "self-study".
 * _Geoengineer the Planet? More Scientists Now Say It Must Be an Option_ \
   by Fred Pearce.  Yale Environment 360 (May 29, 2019) \
   https://e360.yale.edu/features/geoengineer-the-planet-more-scientists-now-say-it-must-be-an-option
-
 
 ## Uncertainty and Risk Management; Economics; Entrepreneurship
 
@@ -277,7 +276,7 @@ This material may also be useful for those wishing to "self-study".
   
 ## Other websites and social media on climate change
   
-* Climate Feedback
+* _Climate Feedback_\
   Evaluates media stories about climate change.\
   https://climatefeedback.org/
   
@@ -285,11 +284,11 @@ This material may also be useful for those wishing to "self-study".
   #climatechange https://twitter.com/search?q=%23climatechange \
   Dr. Katherine Hayhoe's list of 2000+ scientists who study climate https://twitter.com/KHayhoe/lists/scientists-who-do-climate
   
-* Podcasts
-  Climate One (covers all things climate, with both one-on-one interviews and panel discussions)
-  Political Climate (U.S. Climate Politics, hosted by a journalist, a Democrat, and a Republican)
-  TILclimate (Short and accessible interviews w/ MIT researchers working on climate)
-  Energy Transition Show (Long and extremely wonky interviews w/ researchers studying the ongoing energy transition worldwide)
+* Podcasts\
+  Climate One (covers all things climate, with both one-on-one interviews and panel discussions)\
+  Political Climate (U.S. Climate Politics, hosted by a journalist, a Democrat, and a Republican)\
+  TILclimate (Short and accessible interviews w/ MIT researchers working on climate)\
+  Energy Transition Show (Long and extremely wonky interviews w/ researchers studying the ongoing energy transition worldwide)\
   Forecast (Long and in-depth interviews w/ climate scientists)
   
   
