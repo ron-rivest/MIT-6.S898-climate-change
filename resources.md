@@ -51,7 +51,7 @@ This material may also be useful for those wishing to "self-study".
   
 * _Interactive toy climate models_\
   http://forecast.uchicago.edu/models.html
-  * :white_check_mark: Radiative transfer and the Greenhouse Effect\
+  * :white_check_mark: _Radiative transfer and the Greenhouse Effect_\
     Effects of doubling CO2 on the outgoing longwave radiation spectrum in MODTRAN
     http://climatemodels.uchicago.edu/modtran/
   
@@ -65,15 +65,15 @@ This material may also be useful for those wishing to "self-study".
   https://www.youtube.com/watch?time_continue=1&v=dwVsD9CiokY
   
 * _Climate model codes (in order of increasing complexity)_
-  * Brian Rose (University at Albany)'s `climlab`: process-oriented climate modeling\
+  * _Brian Rose (University at Albany)'s `climlab`: process-oriented climate modeling_\
     A helpful framework for building your own simple climate model from the bottom-up
     https://climlab.readthedocs.io/en/latest/intro.html
 
-  * University of Exeter's `isca`: a framework for idealized global circulation modelling\
+  * _University of Exeter's `isca`: a framework for idealized global circulation modelling_\
     The kind of climate model used to test climate dynamics hypotheses without all the complications of the real system
     https://github.com/ExeClim/Isca
     
-  * The National Center for Atmospheric Research's *Community Earth System Model*\
+  * _The National Center for Atmospheric Research's *Community Earth System Model_*\
     This is a world-class climate model and is the caliber of model used to inform policy makers\
     http://www.cesm.ucar.edu/
   
