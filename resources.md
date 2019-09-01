@@ -51,7 +51,7 @@ This material may also be useful for those wishing to "self-study".
   
 * _Interactive toy climate models_\
   http://forecast.uchicago.edu/models.html
-  * :white_check_mark: Radiative transfer and the Greenhouse Effect_\
+  * :white_check_mark: Radiative transfer and the Greenhouse Effect\
     Effects of doubling CO2 on the outgoing longwave radiation spectrum in MODTRAN
     http://climatemodels.uchicago.edu/modtran/
   
