@@ -43,9 +43,9 @@ This material may also be useful for those wishing to "self-study".
   An in-depth but accessible Q&A that pedagogically answers frequently-asked questions about climate models.
   https://www.carbonbrief.org/qa-how-do-climate-models-work
 
-* :white_check_mark: _Climate Change: A Defining Challenge for the 21st Century?_
+* :white_check_mark: _Climate Change: A Defining Challenge for the 21st Century?_\
   Youtube lecture by Dame Julia Slingo FRS\
-  Giving the Sir Thomas Gresham Annual Lecture 2018.at Gresham College\
+  Giving the Sir Thomas Gresham Annual Lecture 2018 at Gresham College\
   https://www.youtube.com/watch?v=q1BEQnkdAVE \
   Emphasizes the uses of simulations.
   
