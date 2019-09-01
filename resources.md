@@ -73,7 +73,7 @@ This material may also be useful for those wishing to "self-study".
     The kind of climate model used to test climate dynamics hypotheses without all the complications of the real system
     https://github.com/ExeClim/Isca
     
-  * _The National Center for Atmospheric Research's *Community Earth System Model_*\
+  * _The National Center for Atmospheric Research's Community Earth System Model (*CESM*)_\
     This is a world-class climate model and is the caliber of model used to inform policy makers\
     http://www.cesm.ucar.edu/
   
