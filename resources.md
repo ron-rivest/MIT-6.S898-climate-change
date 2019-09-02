@@ -64,7 +64,7 @@ This material may also be useful for those wishing to "self-study".
 * _Animations of the Earth's Carbon Cycle_\
   https://www.youtube.com/watch?time_continue=1&v=dwVsD9CiokY
   
-* _Climate model codes (in order of increasing complexity)_\
+* _Climate model codes (in order of increasing complexity)_
   * _Brian Rose (University at Albany)'s `climlab`: process-oriented climate modeling_\
     A helpful framework for building your own simple climate model from the bottom-up
     https://climlab.readthedocs.io/en/latest/intro.html
@@ -77,7 +77,7 @@ This material may also be useful for those wishing to "self-study".
     This is a world-class climate model and is the caliber of model used to inform policy makers\
     http://www.cesm.ucar.edu/
   
-* _Climate Simulation Games_\
+* _Climate Simulation Games_
   * _Climate Interactive's C-ROADS World Climate Simulation_\
     This is a game which lets you play around with different emissions scenarios and consider impacts on climate, economies, and people.\
     https://croadsworldclimate.climateinteractive.org/
