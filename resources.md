@@ -79,7 +79,7 @@ This material may also be useful for those wishing to "self-study".
   
 * _Climate Simulation Games_\
   * _Climate Interactive's C-ROADS World Climate Simulation_\
-    This is a game which lets you play around with different emissions scenarios and consider impacts on climate, economies, and people.
+    This is a game which lets you play around with different emissions scenarios and consider impacts on climate, economies, and people.\
     https://croadsworldclimate.climateinteractive.org/
   
   
