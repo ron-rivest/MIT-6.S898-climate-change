@@ -278,6 +278,9 @@ This material may also be useful for those wishing to "self-study".
   (Also good links in comments.)
   https://www.reddit.com/r/climatechange/comments/byzj3g/a_big_climate_change_reading_list/ \
   
+* Georgia Tech 2016 course (EAS 3110, Kim Cobb)\
+  http://shadow.eas.gatech.edu/~kcobb/energy/index.html \ 
+  
   
 ## Other websites and social media on climate change
   
