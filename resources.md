@@ -94,6 +94,9 @@ This material may also be useful for those wishing to "self-study".
   by Bret Victor\
   http://worrydream.com/ClimateChange/
   
+* _The Pangeo Software Stack for big data geoscience (including climate)_\
+  http://pangeo.io/
+  
 ## Impact and speed of climate change
 
 * Fourth National Climate Assessment Vol II (Executive Summary)\
