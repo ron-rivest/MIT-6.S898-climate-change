@@ -27,12 +27,11 @@ Some concrete examples of potential final projects are listed below:
 For inspiration, we recommend students browse our [list of resources](https://github.com/ron-rivest/MIT-6.S898-climate-change/blob/master/resources.md). If you are unsure whether a potential topic would be appropriate, feel free to contact the TA (Henri Drake, hdrake at mit.edu).
 
 The project deadlines are:
-* by ____: identify team and 2-3 possible topics
-* by ____: submit nominal team and topic
-* by ____: submit 1-2 page (or equivalent) project proposal
-* by ____: meet with staff at least twice about your project
-* by ____: present your project to the class
-* by ____: (last day of class) final project writeup due
+* by 09/27/19: identify team and 2-3 possible topics
+* by 10/18/19: submit 1-2 page (or equivalent) project proposal
+* by 11/08/19: meet with staff at least twice about your project
+* by 12/03/19, 12/06/19, 12/10/19: present your project to the class
+* by 12/10/19: (last day of class) final project writeup due
 
 
 
