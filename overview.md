@@ -39,6 +39,12 @@ ______
 Enrollment is limited (to about 16–20). This [google form questionaire](https://forms.gle/N9iSj8a5VWyPhACE8) will be used to select
 students for the class.  No prior background in climate change is required or expected.
 
+Because of limited enrollment and small class size on Tuesdays, we do not expect to allow students
+to register as "listeners"--there just won't be room enough on Tuesdays.  
+
+However, the guest lectures on Fridays (in 6-120) will be open to the general MIT community.  If you would like
+to be on the mailing list for these lectures, please send email to Henri Drake <hdrake@mit.edu>.
+
 **Website**
 
 All materials for the course (and more) will be posted on the web site:
