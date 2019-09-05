@@ -14,7 +14,28 @@ The project deadlines are:
 * by 12/10/19: (last day of class) final project writeup due
 
 We are very open to the style and topic for these projects; they may involve any
-aspect of climate change, including aspects not otherwise covered in the course.
+aspect of climate change, including aspects not otherwise covered in the course. The basic requirements are: it should be about climate change and it should be interesting!
+
+We imagine that a project could be:
+* a meaningful report, perhaps about a focused question relating to climate science, technological approaches to mitigation, policy options, psychology of responses to proposals, etc.
+* a report describing novel (but perhaps preliminary) results which may be later developed into a peer-reviewed publication
+* a computer program with writeup
+* a blog
+* visual art or musical composition
+* safe and responsible MIT hack
+* video
+* etc.
+We encourage creative formats for the projects; however, the more creative or atypical the project, the more you should consult with the instructors.
+
+The best projects might prompt action.  You can imagine your audience as ordinary individuals (perhaps imagine your parents or the general public), scientists (your professors), institutions (MIT, other universities), corporations associated with carbon (car manufacturers, airlines, oil companies), corporations associated with renewable energy (solar panels, wind turbines, ...). 
+
+The following are a list of some potential projects (feel free to choose one of these or develop your own):
+* For the public
+  * Awareness projects – anything that helps people realize
+    * there is a real urgent problem
+    * concrete actions they can take
+
+
 For example, a project might involve the following general topics:
 * historical research on some aspect of climate change
 * field research
