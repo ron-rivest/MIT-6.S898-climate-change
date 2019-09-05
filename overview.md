@@ -89,7 +89,7 @@ The following is a brief syllabus, where the number of class sessions covering e
 
 To be determined...
 
-**Schedule for Recitations on Climate Data Analysis and Modelling*
+**Recitations on Climate Data Analysis and Modelling**
 
 To be determined...
 
