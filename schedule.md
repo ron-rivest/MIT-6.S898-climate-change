@@ -47,7 +47,7 @@
   * Tue 29 Oct L14, reading: TBD [Note: 4pm MIT Climate Symposium]
   * Fri 01 Nov L15, guest: Paul O'Gorman (MIT) on Atmospheric Science and Machine Learning
 
-**aWeek 10 (Nov 4–8, 2019)**
+**Week 10 (Nov 4–8, 2019)**
   * Tue 05 Nov L16, reading: TBD
   * Fri 08 Nov L17, guest: Dava Newman and Gui Trotti (MIT) on [TBD]
   
