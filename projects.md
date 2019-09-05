@@ -30,27 +30,30 @@ We encourage creative formats for the projects; however, the more creative or at
 The best projects might prompt action.  You can imagine your audience as ordinary individuals (perhaps imagine your parents or the general public), scientists (your professors), institutions (MIT, other universities), corporations associated with carbon (car manufacturers, airlines, oil companies), corporations associated with renewable energy (solar panels, wind turbines, ...). 
 
 The following are a list of some potential projects (feel free to choose one of these or develop your own):
-* For the public
-  * Awareness projects – anything that helps people realize
-    * there is a real urgent problem
-    * concrete actions they can take
-
-
-For example, a project might involve the following general topics:
-* historical research on some aspect of climate change
-* field research
-* model development or model simulation
-* a study of policy options relating to one aspect of climate change
-* a study of resistance to policy
-* a study of messaging and presentation of climate change policy options
-* ...
-
-Some concrete examples of potential final projects are listed below:
-* a web-hosted queryable database of successful emission mitigation programs
-* a sculpture of Earth that showcases regional impacts of climate change (e.g. for display on MIT's campus)
-* a simulation investigating the climate impacts of the entire Amazon Rainforest burning down
-* a report on the impact of a progressive carbon tax on energy systems, global emissions, and climate
-* ... (more examples coming soon)
+* Public awareness projects (anything that helps people realize there is a real urgent problem and concrete solutions)
+ * compose a song for the [Chorallaries of MIT](http://web.mit.edu/choral/www/index.html) and get them to sing it.
+ * create a sculpture of Earth that showcases regional impacts of climate change (e.g. for display on MIT's campus)
+* Climate science projects
+ * simulate the climate impacts of the entire Amazon Rainforest burning down over the next 20 years (probably publishable)
+ * review bayesian approaches to model projections of future climate change in the literature and evaluate their relative usefullness (possibly publishable)
+ * develop a novel machine learning parameterization for a process that is missing from – or poorly represented in – climate models (possibly publishable)
+ * apply machine learning approaches to the problem of seasonal prediction (the tricky middle-ground between weather and climate)
+ * simulating the climate impacts of geoengineering (e.g. what if China decides to blot out the Sun only over China? How does that affect the rest of the planet?)
+* Policy projects
+ * a report on the impact of a progressive carbon tax on energy systems, global emissions, and climate
+ * a review of the various geoengineering proposals and their benefits,
+* Technological projects
+ * carry out life cycle analysis for the total emissions of conventional products (e.g. internal combustion engine cars, incandescent lightbulbs, ...) as compared to sustainable versions of the product (e.g. electric cars, LED lightbulbs, ...) 
+* Data science projects
+ * develop a web-hosted queryable database of successful emission mitigation programs
+* Software projects
+ * develop an app which plots the historical and future climate at a given GPS location
+ * develop a climate change game (many of these exist, the hard part is making it fun!)
+ * write an Alexa app that can convert between behaviors (e.g. flight from SFO to BOS) into carbon emissions (e.g. in tons of CO2 emitted or added concentration of CO2 in ppm)
+ * develop a high-level Julia wrapper for a climate model (or other climate-related software)
+* Political action
+ * develop and carry out an action plan for a local grassroots climate / environmental organization
+ * develop a campaign plan focused on addressing climate change for a politican (or run for public office yourself!)
 
 For inspiration, we recommend students browse our [list of resources](https://github.com/ron-rivest/MIT-6.S898-climate-change/blob/master/resources.md). If you are unsure whether a potential topic would be appropriate, feel free to contact the TA (Henri Drake, hdrake at mit.edu).
 
