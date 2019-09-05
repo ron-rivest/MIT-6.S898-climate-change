@@ -18,6 +18,7 @@
 
   * Tue 24 Sep L05, reading: TBD
   * Fri 27 Sep L06, guest: David McGee (MIT) on Paleoclimatology and Abrupt Changes in the Geologic Record
+  * Fri 27 Sep Project Deadline: Identify team (1-2 people) and 2-3 possible topics for project
 
 **Week 5 (Sep 30–Oct 4, 2019)**
 
@@ -33,12 +34,14 @@
 
   * Tue 15 Oct NO CLASS (Columbus Day)
   * Fri 18 Oct L11, guest: TBD
-
+  * Fri 18 Oct Project Deadline: submit 1-2 page project proposal
+  
 **Week 8 (Oct 21–25, 2019)**
 
   * Tue 22 Oct L12, reading: TBD
   * Fri 25 Oct L13, guest: Francis O'Sullivan (MIT) on Energy and Climate
-
+  * Fri 25 Oct Project Deadline: meet with staff member about project (first time)
+  
 **Week 9 (Oct 28–Nov 1, 2019)**
 
   * Tue 29 Oct L14, reading: TBD [Note: 4pm MIT Climate Symposium]
@@ -47,11 +50,12 @@
 **aWeek 10 (Nov 4–8, 2019)**
   * Tue 05 Nov L16, reading: TBD
   * Fri 08 Nov L17, guest: Dava Newman and Gui Trotti (MIT) on [TBD]
-
+  
 **Week 11 (Nov 11–15, 2019)** [Nov 11 Holiday]
   * Tue 12 Nov L18, reading: TBD
   * Fri 15 Nov L19, guest: John Reilly (MIT) on Economic Modelling
-
+  * Fri 15 Nov Project Deadline: meet with staff member about project (second time)
+  
 **Week 12 (Nov 18–22, 2019)**
   * Tue 19 Nov L20, reading: TBD
   * Fri 22 Nov L21, guest: TBD
@@ -66,3 +70,4 @@
 
 **Week 15 (Dec 9–11, 2019)** [Wed 11 Last class]
   * Tue 10 Dec L25, Project presentations
+  * Tue 10 Dec Project Deadline: Final Written Report Due
