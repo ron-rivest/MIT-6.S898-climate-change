@@ -78,6 +78,7 @@ The following is a brief syllabus, where the number of class sessions covering e
     (25) TOTAL
 
 **Grading**
+
 *Project (50%)*: This mostly reflects the oral and written components due at the end of the semester, but points may also be lost if progress identifying, proposing, and executing a project throughout the semester is inadequate. For more information on the projects, [[click here]](https://github.com/ron-rivest/MIT-6.S898-climate-change/blob/master/projects.md).
 
 *Leading Discussions (30%)*: This refelcts participation in the specific parts of the discussion sessions that you are assigned to lead. Responsibilities include preparing leading questions, comments, or facts based on the assigned reading, and following up with other questions and comments from students. Discussion leaders are expected to have not only completed the reading assignment, but also thought critically about its contents.
