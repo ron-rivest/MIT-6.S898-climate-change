@@ -6,7 +6,7 @@
 **Week 2 (Sep 9–13, 2019)**
 
   * Tue 10 Sep L02, reading: [*What we know about Climate Change*](https://mitpress.mit.edu/books/what-we-know-about-climate-change-updated-edition) by Emanuel (copy handed out at L01)
-  * Fri 13 Sep L03, guest: Kerry Emanuel (MIT) on an overview of Climate Change from the perspective of a physical scientist
+  * Fri 13 Sep L03, guest: Kerry Emanuel (MIT) on an overview of Climate Change
 
 **Week 3 (Sep 16–20, 2019)**
 
