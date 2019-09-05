@@ -100,7 +100,9 @@ This term we will be using Piazza for class discussion. The system is highly cat
 Find our class page at: https://piazza.com/mit/fall2019/6s898/home
 
 **Policy on Harassment**
+
 We are committed to leading a welcoming and productive classroom that is free from harassment, in accordance with MIT's Policies on Harassment. Learn more at [policies.mit.edu](https://policies.mit.edu/policies-procedures/90-relations-and-responsibilities-within-mit-community/94-harassment).
 
 **Academic Integrity**
+
 Following MIT's institution policies on academic integrity, we expect students to "avoid engaging in plagiarism, unauthorized collaboration, cheating, or facilitating academic dishonesty". Please review the institutional policies on academic integrity at https://integrity.mit.edu/. If you have any questions or are unsure which behaviors violate these policies, please contact the TA or instructors.
