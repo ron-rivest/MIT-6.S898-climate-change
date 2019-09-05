@@ -42,7 +42,7 @@ Because of limited enrollment and small class size on Tuesdays, we do not expect
 to register as "listeners"--there just won't be room enough on Tuesdays.  
 
 However, the guest lectures on Fridays (in 6-120) will be open to the general MIT community.  If you would like
-to be on the mailing list for these lectures, please send email to Henri Drake <hdrake@mit.edu>.
+to be on the mailing list for these lectures, please send email to Henri Drake at <hdrake@mit.edu>.
 
 **Website**
 
