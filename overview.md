@@ -85,7 +85,12 @@ The following is a brief syllabus, where the number of class sessions covering e
 
 *Participation (20%)*: This reflects general participation in the course, including but not limited to contributing to class discussions, asking questions at guest lectures, posting questions or comments to Piazza, and going to TA office hours. Points will be lost if it becomes clear you have not done the readings.
 
-**TA Office Hours and Recitation Schedule**
+**TA Office Hours**
+
+To be determined...
+
+**Schedule for Recitations on Climate Data Analysis and Modelling*
+
 To be determined...
 
 **Discussion and Announcements**
