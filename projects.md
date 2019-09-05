@@ -25,6 +25,7 @@ We imagine that a project could be:
 * safe and responsible MIT hack
 * video
 * etc.
+
 We encourage creative formats for the projects; however, the more creative or atypical the project, the more you should consult with the instructors.
 
 The best projects might prompt action.  You can imagine your audience as ordinary individuals (perhaps imagine your parents or the general public), scientists (your professors), institutions (MIT, other universities), corporations associated with carbon (car manufacturers, airlines, oil companies), corporations associated with renewable energy (solar panels, wind turbines, ...). 
