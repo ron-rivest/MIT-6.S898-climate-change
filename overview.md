@@ -56,9 +56,9 @@ The class will meet twice a week, on Tuesday (room 56-167) and on Fridays (room 
 The Friday class will feature many guest speakers (see full list in schedule below).
 The Tuesday class will be seminar-style (students presenting and discussing papers assigned by following guest speaker).
 
-**Brief Syllabus**
+**Syllabus**
 
-The following is a brief syllabus, where the number of class sessions covering each topic is shown in parentheses. The ordering and exact weighting of each topic depends on the scheduling of guest lecturers. A more detailed syllabus, including a preliminary list of guest lecturers and assigned readings, will be posted shortly.
+The following is a brief syllabus, where the number of class sessions covering each topic is shown in parentheses. The ordering and exact weighting of each topic depends on the scheduling of guest lecturers. A more detailed schedule, including a preliminary list of guest lecturers and assigned readings, can be found on the [schedule page](https://github.com/ron-rivest/MIT-6.S898-climate-change/blob/master/schedule.md).
 
     (1) Introduction
     (4) Physical Science
