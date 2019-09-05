@@ -48,8 +48,9 @@ The following are a list of some potential projects (feel free to choose one of 
   * a review of the various geoengineering proposals and their benefits,
 * Technological projects
   * carry out life cycle analysis for the total emissions of conventional products (e.g. internal combustion engine cars, incandescent lightbulbs, ...) as compared to sustainable versions of the product (e.g. electric cars, LED lightbulbs, ...) 
-* Data science projects
+* Data science / Visualization projects
   * develop a web-hosted queryable database of successful emission mitigation programs
+  * create Virtual Reality / Augmented Reality visualizations of climate change
 * Software projects
   * develop an app which plots the historical and future climate at a given GPS location
   * develop a climate change game (many of these exist, the hard part is making it fun!)
