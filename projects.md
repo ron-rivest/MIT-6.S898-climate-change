@@ -31,29 +31,33 @@ The best projects might prompt action.  You can imagine your audience as ordinar
 
 The following are a list of some potential projects (feel free to choose one of these or develop your own):
 * Public awareness projects (anything that helps people realize there is a real urgent problem and concrete solutions)
- * compose a song for the [Chorallaries of MIT](http://web.mit.edu/choral/www/index.html) and get them to sing it.
- * create a sculpture of Earth that showcases regional impacts of climate change (e.g. for display on MIT's campus)
+  * compose a song for the [Chorallaries of MIT](http://web.mit.edu/choral/www/index.html) and get them to sing it.
+  * create a sculpture of Earth that showcases regional impacts of climate change (e.g. for display on MIT's campus)
 * Climate science projects
- * simulate the climate impacts of the entire Amazon Rainforest burning down over the next 20 years (probably publishable)
- * review bayesian approaches to model projections of future climate change in the literature and evaluate their relative usefullness (possibly publishable)
- * develop a novel machine learning parameterization for a process that is missing from – or poorly represented in – climate models (possibly publishable)
- * apply machine learning approaches to the problem of seasonal prediction (the tricky middle-ground between weather and climate)
- * simulating the climate impacts of geoengineering (e.g. what if China decides to blot out the Sun only over China? How does that affect the rest of the planet?)
+  * simulate the climate impacts of the entire Amazon Rainforest burning down over the next 20 years (probably publishable)
+  * review bayesian approaches to model projections of future climate change in the literature and evaluate their relative usefullness (possibly publishable)
+  * develop a novel machine learning parameterization for a process that is missing from – or poorly represented in – climate models (possibly publishable)
+  * apply machine learning approaches to the problem of seasonal prediction (the tricky middle-ground between weather and climate)
+  * simulating the climate impacts of geoengineering (e.g. what if China decides to blot out the Sun only over China? How does that affect the rest of the planet?)
+  * develop (or improve existing) an inverse model which takes CO2 concentrations (as a function of time and space) and winds as input and gives CO2 emissions as output
+  * use dimension-reduction and clustering methods to identify different kinds of patterns in observational data (e.g. El Niño, types of hurricanes, atmospheric "rivers")
+  * run realistic simulations of forest fires and study their sensitivity to surrounding climate (air temperature, soil moisture, humidity)
+  * replicate classic papers in climate modelling using modern, high-level software (Can you exactly replicate their results? How would their results change if you made different basic assumptions?)
 * Policy projects
- * a report on the impact of a progressive carbon tax on energy systems, global emissions, and climate
- * a review of the various geoengineering proposals and their benefits,
+  * a report on the impact of a progressive carbon tax on energy systems, global emissions, and climate
+  * a review of the various geoengineering proposals and their benefits,
 * Technological projects
- * carry out life cycle analysis for the total emissions of conventional products (e.g. internal combustion engine cars, incandescent lightbulbs, ...) as compared to sustainable versions of the product (e.g. electric cars, LED lightbulbs, ...) 
+  * carry out life cycle analysis for the total emissions of conventional products (e.g. internal combustion engine cars, incandescent lightbulbs, ...) as compared to sustainable versions of the product (e.g. electric cars, LED lightbulbs, ...) 
 * Data science projects
- * develop a web-hosted queryable database of successful emission mitigation programs
+  * develop a web-hosted queryable database of successful emission mitigation programs
 * Software projects
- * develop an app which plots the historical and future climate at a given GPS location
- * develop a climate change game (many of these exist, the hard part is making it fun!)
- * write an Alexa app that can convert between behaviors (e.g. flight from SFO to BOS) into carbon emissions (e.g. in tons of CO2 emitted or added concentration of CO2 in ppm)
- * develop a high-level Julia wrapper for a climate model (or other climate-related software)
+  * develop an app which plots the historical and future climate at a given GPS location
+  * develop a climate change game (many of these exist, the hard part is making it fun!)
+  * write an Alexa app that can convert between behaviors (e.g. flight from SFO to BOS) into carbon emissions (e.g. in tons of CO2 emitted or added concentration of CO2 in ppm)
+  * develop a high-level Julia wrapper for a climate model (or other climate-related software)
 * Political action
- * develop and carry out an action plan for a local grassroots climate / environmental organization
- * develop a campaign plan focused on addressing climate change for a politican (or run for public office yourself!)
+  * develop and carry out an action plan for a local grassroots climate / environmental organization
+  * develop a campaign plan focused on addressing climate change for a politican (or run for public office yourself!)
 
 For inspiration, we recommend students browse our [list of resources](https://github.com/ron-rivest/MIT-6.S898-climate-change/blob/master/resources.md). If you are unsure whether a potential topic would be appropriate, feel free to contact the TA (Henri Drake, hdrake at mit.edu).
 
