@@ -54,30 +54,33 @@ This material may also be useful for those wishing to "self-study".
     This is a game which lets you play around with different emissions scenarios and consider impacts on climate, economies, and people.\
     https://croadsworldclimate.climateinteractive.org/
   
-* _Interactive toy climate models_\
-  http://forecast.uchicago.edu/models.html
-  * :white_check_mark: _Radiative transfer and the Greenhouse Effect_\
-    Effects of doubling CO2 on the outgoing longwave radiation spectrum in MODTRAN
-    http://climatemodels.uchicago.edu/modtran/
   
 * _Climate model codes (in order of increasing complexity)_
-  * _Brian Rose (University at Albany)'s `climlab`: process-oriented climate modeling_\
-    A helpful framework for building your own simple climate model from the bottom-up
-    https://climlab.readthedocs.io/en/latest/intro.html
-
-  * _University of Exeter's `isca`: a framework for idealized global circulation modelling_\
-    The kind of climate model used to test climate dynamics hypotheses without all the complications of the real system
-    https://github.com/ExeClim/Isca
+  * _Interactive toy climate models_\
+    * :white_check_mark: _Radiative transfer and the Greenhouse Effect_\
+      Effects of doubling CO2 on the outgoing longwave radiation spectrum in MODTRAN
+      http://climatemodels.uchicago.edu/modtran/
+    * Others at http://forecast.uchicago.edu/models.html
+  * _Idealized Model Frameworks_\
+    * _Brian Rose (University at Albany)'s `climlab`: process-oriented climate modeling_\
+      A helpful framework for building your own simple climate model from the bottom-up\
+      https://climlab.readthedocs.io/en/latest/intro.html
+      
+    * _[`simpl`](https://github.com/mcgibbon/sympl) and [`climt`](https://github.com/CliMT/climt): towards a flexible framework for building model hierarchies in Python_\
+      https://www.geosci-model-dev.net/11/3781/2018/
+      
+    * _University of Exeter's `isca`: a framework for idealized global circulation modelling_\
+      The kind of climate model used to test climate dynamics hypotheses without all the complications of the real system\
+      https://github.com/ExeClim/Isca
     
   * _The National Center for Atmospheric Research's Community Earth System Model (*CESM*)_\
     This is a world-class climate model and is the caliber of model used to inform policy makers\
     http://www.cesm.ucar.edu/
   
-* _The Climate Modeling Alliance_\
-  https://clima.caltech.edu/
-  
-* _The Julia Programming Language_\
-  https://julialang.org/  
+  * _The Climate Modeling Alliance_\
+    https://clima.caltech.edu/
+    https://julialang.org/  
+
   
 * _Animations of the Earth's Carbon Cycle_\
   https://www.youtube.com/watch?time_continue=1&v=dwVsD9CiokY
