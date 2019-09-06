@@ -61,6 +61,6 @@ The following are a list of some potential projects (feel free to choose one of 
   * develop and carry out an action plan for a local grassroots climate / environmental organization
   * develop a campaign plan focused on addressing climate change for a politican (or run for public office yourself!)
 
-For inspiration, we recommend students browse our [list of resources](https://github.com/ron-rivest/MIT-6.S898-climate-change/blob/master/resources.md). If you are unsure whether a potential topic would be appropriate, feel free to contact the TA (Henri Drake, hdrake at mit.edu).
+For inspiration, we recommend students browse our [list of resources](https://github.com/ron-rivest/MIT-6.S898-climate-change/blob/master/resources.md). You can also check out this [twitter thread in which the TA solicited project ideas from climate scientists and machine learning experts](https://twitter.com/henrifdrake/status/1169661135466848257?s=20). If you are unsure whether a potential topic would be appropriate, feel free to contact the TA (Henri Drake, hdrake at mit.edu).
 
 
