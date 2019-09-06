@@ -36,10 +36,11 @@ ______
 
 **Enrollment**:
 
-Enrollment is limited (to about 16–20). This [google form questionaire](https://forms.gle/N9iSj8a5VWyPhACE8) will be used to select students for the class.  No prior background in climate change is required or expected.
+Enrollment is limited (to about 16–20). This [google form questionaire](https://forms.gle/N9iSj8a5VWyPhACE8) will be used if necessary
+to select students for the class.  No prior background in climate change is required or expected.
 
-Because of limited enrollment and small class size on Tuesdays, we do not expect to allow students
-to register as "listeners"--there just won't be room enough on Tuesdays.  
+Because of limited enrollment and small class size on Tuesdays, we may not allow students
+to register as "listeners"--there may not be enough room on Tuesdays.  
 
 However, the guest lectures on Fridays (in 6-120) will be open to the general MIT community.  If you would like
 to be on the mailing list for these lectures, please send email to Henri Drake at <hdrake@mit.edu>.
@@ -81,7 +82,7 @@ The following is a brief syllabus, where the number of class sessions covering e
 
 *Project (50%)*: This mostly reflects the oral and written components due at the end of the semester, but points may also be lost if progress identifying, proposing, and executing a project throughout the semester is inadequate. For more information on the projects, [[click here]](https://github.com/ron-rivest/MIT-6.S898-climate-change/blob/master/projects.md).
 
-*Leading Discussions (30%)*: This refelcts participation in the specific parts of the discussion sessions that you are assigned to lead. Responsibilities include preparing leading questions, comments, or facts based on the assigned reading, and following up with other questions and comments from students. Discussion leaders are expected to have not only completed the reading assignment, but also thought critically about its contents.
+*Leading Discussions (30%)*: This reflects participation in the specific parts of the discussion sessions that you are assigned to lead. Responsibilities include preparing leading questions, comments, or facts based on the assigned reading, and following up with other questions and comments from students. Discussion leaders are expected to have not only completed the reading assignment, but also thought critically about its contents.
 
 *Participation (20%)*: This reflects general participation in the course, including but not limited to contributing to class discussions, asking questions at guest lectures, posting questions or comments to Piazza, and going to TA office hours. Points will be lost if it becomes clear you have not done the readings.
 
