@@ -1,5 +1,12 @@
 # Schedule for MIT 6.S898 Climate Change Seminar, Fall 2019
 
+Classes are Tuesdays and Fridays, 1:00--2:30pm.
+  * Tuesday classes are in 56-167 (there is some possibility that this will switch to 6-120; stay tuned),
+    and are restricted to students registered for credit or as a listener.
+  * Friday classes are in 6-120.
+  
+This schedule is subject to change.  
+
 **Week 1 (Sep 4–6, 2019)**
   * Fri 06 Sep L01, first class: introductions, syllabus, schedule
 
