@@ -70,7 +70,7 @@ This material may also be useful for those wishing to "self-study".
       A helpful framework for building your own simple climate model from the bottom-up\
       https://climlab.readthedocs.io/en/latest/intro.html
       
-    * _[`simpl`](https://github.com/mcgibbon/sympl) and [`climt`](https://github.com/CliMT/climt): towards a flexible framework for building model hierarchies in Python_\
+    * _[`sympl`](https://github.com/mcgibbon/sympl) and [`climt`](https://github.com/CliMT/climt): towards a flexible framework for building model hierarchies in Python_\
       https://www.geosci-model-dev.net/11/3781/2018/
       
     * _University of Exeter's `isca`: a framework for idealized global circulation modelling_\
@@ -325,4 +325,10 @@ This material may also be useful for those wishing to "self-study".
   https://www3.epa.gov/carbon-footprint-calculator/ \
   https://trees.org/carboncalculator/ \
   https://www.terrapass.com/
+  
+## Conferences, Symposia, etc.
+
+* _MIT Climate Symposia_\
+  (Oct 2, Oct 29, Dec 4, Feb 25, Apr 2, Apr 22)\ 
+  https://climate.mit.edu/symposia
 
