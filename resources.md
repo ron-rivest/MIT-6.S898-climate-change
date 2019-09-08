@@ -329,6 +329,6 @@ This material may also be useful for those wishing to "self-study".
 ## Conferences, Symposia, etc.
 
 * _MIT Climate Symposia_\
-  (Oct 2, Oct 29, Dec 4, Feb 25, Apr 2, Apr 22)\ 
+  (Oct 2, Oct 29, Dec 4, Feb 25, Apr 2, Apr 22)\
   https://climate.mit.edu/symposia
 
