@@ -39,6 +39,10 @@ This material may also be useful for those wishing to "self-study".
   
 ## Climate changes models and simulation  
 
+* :white_check_mark: _EdGCM: Educational Global Climate Modeling_\
+  "EdGCM [provides] a research-grade GCM with a user-friendly interface that can be run on a desktop computer."
+  http://edgcm.columbia.edu/
+
 * :white_check_mark: _How do climate models work?_\
   An in-depth but accessible Q&A that pedagogically answers frequently-asked questions about climate models.
   https://www.carbonbrief.org/qa-how-do-climate-models-work
