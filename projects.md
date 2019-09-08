@@ -31,10 +31,10 @@ We encourage creative formats for the projects; however, the more creative or at
 The best projects might prompt action.  You can imagine your audience as ordinary individuals (perhaps imagine your parents or the general public), scientists (your professors), institutions (MIT, other universities), corporations associated with carbon (car manufacturers, airlines, oil companies), corporations associated with renewable energy (solar panels, wind turbines, ...). 
 
 The following are a list of some potential projects (feel free to choose one of these or develop your own):
-* Public awareness projects (anything that helps people realize there is a real urgent problem and concrete solutions)
+* Public awareness (anything that helps people realize there is a real urgent problem and concrete solutions)
   * compose a song for the [Chorallaries of MIT](http://web.mit.edu/choral/www/index.html) and get them to sing it.
   * create a sculpture of Earth that showcases regional impacts of climate change (e.g. for display on MIT's campus)
-* Climate science projects
+* Climate science
   * simulate the climate impacts of the entire Amazon Rainforest burning down over the next 20 years (probably publishable)
   * review bayesian approaches to model projections of future climate change in the literature and evaluate their relative usefullness (possibly publishable)
   * develop a novel machine learning parameterization for a process that is missing from – or poorly represented in – climate models (possibly publishable)
@@ -44,19 +44,21 @@ The following are a list of some potential projects (feel free to choose one of 
   * use dimension-reduction and clustering methods to identify different kinds of patterns in observational data (e.g. El Niño, types of hurricanes, atmospheric "rivers")
   * run realistic simulations of forest fires and study their sensitivity to surrounding climate (air temperature, soil moisture, humidity)
   * replicate classic papers in climate modelling using modern, high-level software (Can you exactly replicate their results? How would their results change if you made different basic assumptions?)
-* Policy projects
+* Policy
   * a report on the impact of a progressive carbon tax on energy systems, global emissions, and climate
   * a review of the various geoengineering proposals and their benefits,
-* Technological projects
+* Technological
   * carry out life cycle analysis for the total emissions of conventional products (e.g. internal combustion engine cars, incandescent lightbulbs, ...) as compared to sustainable versions of the product (e.g. electric cars, LED lightbulbs, ...) 
-* Data science / Visualization projects
+* Data science / Visualization
   * develop a web-hosted queryable database of successful emission mitigation programs
   * create Virtual Reality / Augmented Reality visualizations of climate change
-* Software projects
+* Software
   * develop an app which plots the historical and future climate at a given GPS location
   * develop a climate change game (many of these exist, the hard part is making it fun!)
   * write an Alexa app that can convert between behaviors (e.g. flight from SFO to BOS) into carbon emissions (e.g. in tons of CO2 emitted or added concentration of CO2 in ppm)
   * develop a high-level Julia wrapper for a climate model (or other climate-related software)
+* Machine Learning
+  * see this [twitter thread](https://twitter.com/raspstephan/status/1169735953419821056?s=20) summarizing a recent workshop on Machine Learning in Climate
 * Political action
   * develop and carry out an action plan for a local grassroots climate / environmental organization
   * develop a campaign plan focused on addressing climate change for a politican (or run for public office yourself!)
