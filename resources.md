@@ -254,6 +254,10 @@ This material may also be useful for those wishing to "self-study".
   Special issue of MIT Technology Review (May/June 2019)\
   https://www.technologyreview.com/magazine/2019/05/download/
   
+* _A Plan for Action on Climate Change_\
+  (October 21, 2015) by Reif et el.\
+  http://web.mit.edu/climateaction/ClimateChangeStatement-2015Oct21.pdf
+  
   
 ## Other significant sources of information 
 
