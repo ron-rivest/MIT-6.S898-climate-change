@@ -7,7 +7,7 @@ Classes are Tuesdays and Fridays, 1:00--2:30pm.
     here is a link to the collection of videos taken:\
     https://video.odl.mit.edu/collections/7ff01175569b4c47951117db28900233/
   
-For dates that have happened already, this schedule sketches what was done, and related links/material.\
+For dates that have happened already, this schedule sketches what was done, and gives related links/material.\
 For dates in the future, this schedule lists the intended plan (which is subject to change).
 
 **Week 1 (Sep 4–6, 2019)**
