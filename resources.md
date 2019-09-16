@@ -198,6 +198,10 @@ This material may also be useful for those wishing to "self-study".
 * _Natural climate solutions for the United States_\
   by Joseph E. Fargione et al.\
   https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6235523/pdf/aat1869.pdf
+  
+* _SWITCH_ (Documentary on making the transition in energy)\
+  by Scott Tinker (Bureau of Economic Geology and the Switch Energy Alliance, in Texas)\
+  http://www.switchenergyproject.com/education/stream-and-download
      
      
 ## Activism
