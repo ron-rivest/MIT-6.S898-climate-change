@@ -276,6 +276,10 @@ This material may also be useful for those wishing to "self-study".
   by Michael Mann (Penn State)\
   https://www.edx.org/course/climate-change-the-science-and-global-impact
   
+* edX/MITx course 12.340X _Global Warming Science_\
+  by Kerry Emanuel (MIT) 2016\
+  https://courses.edx.org/courses/course-v1:MITx+12.340x_2+1T2016/course/
+  
 * edX course on Climate Change from UBC:\
   (Also linked to from MIT Climate site.)\
   https://courses.edx.org/courses/course-v1:UBCx+Climate1x+2T2017/course/
