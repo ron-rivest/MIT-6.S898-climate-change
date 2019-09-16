@@ -21,7 +21,7 @@ For dates in the future, this schedule lists the intended plan (which is subject
 
 **Week 3 (Sep 16–20, 2019)**
 
-  * Tue 17 Sep L04, reading:\
+  * Tue 17 Sep L04, reading/viewing:\
     Modules 3 and 4 of Michael Mann's online course:\
     https://www.edx.org/course/climate-change-the-science-and-global-impact
   * Fri 20 Sep NO CLASS (Student Holiday)\
