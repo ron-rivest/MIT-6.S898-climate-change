@@ -1,11 +1,14 @@
-# Schedule for MIT 6.S898 Climate Change Seminar, Fall 2019
+# Schedule for MIT 6.S898/12.S992 Climate Change Seminar, Fall 2019
 
 Classes are Tuesdays and Fridays, 1:00--2:30pm.
-  * Tuesday classes are in 56-167 (there is some possibility that this will switch to 6-120; stay tuned),
-    and are restricted to students registered for credit or as a listener.
-  * Friday classes are in 6-120.
+  * Tuesday classes are in 4-231 and are restricted to students registered for credit or as a listener.
+  * Friday classes are in 6-120 and are open to the MIT community.\
+    Some of the Friday lectures will be videotaped and posted by the MIT ODL (Office of Digital Learning);
+    here is a link to the collection of videos taken:\
+    https://video.odl.mit.edu/collections/7ff01175569b4c47951117db28900233/
   
-This schedule is subject to change.  
+For dates that have happened already, this schedule sketches what was done, and related links/material.\
+For dates in the future, this schedule lists the intended plan (which is subject to change).
 
 **Week 1 (Sep 4–6, 2019)**
   * Fri 06 Sep L01, first class: introductions, syllabus, schedule
@@ -13,11 +16,14 @@ This schedule is subject to change.
 **Week 2 (Sep 9–13, 2019)**
 
   * Tue 10 Sep L02, reading: [*What we know about Climate Change*](https://mitpress.mit.edu/books/what-we-know-about-climate-change-updated-edition) by Emanuel (copy handed out at L01)
-  * Fri 13 Sep L03, guest: Kerry Emanuel (MIT) on an overview of Climate Change
+  * Fri 13 Sep L03, guest: Kerry Emanuel (MIT) on an overview of Climate Change\
+    Video: https://video.odl.mit.edu/videos/752b6649af874920a087a8bc7510833d/
 
 **Week 3 (Sep 16–20, 2019)**
 
-  * Tue 17 Sep L04, reading: TBD
+  * Tue 17 Sep L04, reading:\
+    Modules 3 and 4 of Michael Mann's online course:\
+    https://www.edx.org/course/climate-change-the-science-and-global-impact
   * Fri 20 Sep NO CLASS (Student Holiday)\
       Henri will be leading an optional trip to the [Boston Climate Strike](https://www.facebook.com/events/349500849297711/).
 
