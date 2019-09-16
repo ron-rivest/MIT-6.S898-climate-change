@@ -15,7 +15,10 @@ For dates in the future, this schedule lists the intended plan (which is subject
 
 **Week 2 (Sep 9–13, 2019)**
 
-  * Tue 10 Sep L02, reading: [*What we know about Climate Change*](https://mitpress.mit.edu/books/what-we-know-about-climate-change-updated-edition) by Emanuel (copy handed out at L01)
+  * Tue 10 Sep L02, reading:\
+    [*What we know about Climate Change*](https://mitpress.mit.edu/books/what-we-know-about-climate-change-updated-edition) by Emanuel (copy handed out at L01)\
+    See also: 
+    [Climate Science and Climate Risk: A Primer, by Kerry A. Emanuel](https://eapsweb.mit.edu/sites/default/files/Climate_Primer.pdf)
   * Fri 13 Sep L03, guest: Kerry Emanuel (MIT) on an overview of Climate Change\
     Video: https://video.odl.mit.edu/videos/752b6649af874920a087a8bc7510833d/
 
