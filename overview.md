@@ -90,6 +90,20 @@ The following is a brief syllabus, where the number of class sessions covering e
 
 Optional office hours will be held weekly on **Tuesdays from 4–6pm in 26-142**. Typically, the first hour will be a structured review or extension of content covered in the discussions / lectures while the second hour will be reserved for help with final projects and answering questions about class content.
 
+The following is a preliminary schedule of these lessons, loosely inspired by students' aggregated interests from the Google Form questionnaire.
+
+    Week of 09/16 – Introduction to climate science: simple models (zero- and one-dimensional climate models), atmospheric radiation and the greenhouse effect, the carbon cycle
+    Week of 09/23 – Introduction to climate modelling: differential equations, Navier Stokes, general circulation models
+    Week of 09/30 – How to download, analyze, and visualize climate data: examples with temperature measurements, simulated global cloud changes, and air pollution measurements
+
+    Week of 10/07 – How to run and analyze climate model simulations: example with climlab
+    Week of 10/14 – OFF (TA away at climate modelling workshop)
+    Week of 10/21 – How to run a coupled climate-economic model: example TBD
+    Week of 10/28 – Introduction to energy grid modelling and life-cycle assessments: examples TBD
+    Following weeks – Project help
+
+ 
+
 **Discussion and Announcements**
 
 This term we will be using Piazza for class discussion. The system is highly catered to getting you help fast and efficiently from classmates, the TA, and the instructors. Rather than emailing questions to the teaching staff, I encourage you to post your questions on Piazza. If you have any problems or feedback for the developers, email team@piazza.com.
