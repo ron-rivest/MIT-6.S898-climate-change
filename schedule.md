@@ -1,7 +1,7 @@
 # Schedule for MIT 6.S898/12.S992 Climate Change Seminar, Fall 2019
 
 Classes are Tuesdays and Fridays, 1:00--2:30pm.
-  * Tuesday classes are in 4-231 and are restricted to students registered for credit or as a listener.
+  * Tuesday classes are in 4-231 and are restricted to the MIT community.
   * Friday classes are in 6-120 and are open to the MIT community.\
     Some of the Friday lectures will be videotaped and posted by the MIT ODL (Office of Digital Learning);
     here is a link to the collection of videos taken:\
@@ -20,7 +20,9 @@ For dates in the future, this schedule lists the intended plan (which is subject
     See also: 
     [Climate Science and Climate Risk: A Primer, by Kerry A. Emanuel](https://eapsweb.mit.edu/sites/default/files/Climate_Primer.pdf)
   * Fri 13 Sep L03, guest: Kerry Emanuel (MIT) on an overview of Climate Change\
-    Video: https://video.odl.mit.edu/videos/752b6649af874920a087a8bc7510833d/
+    Video: https://video.odl.mit.edu/videos/752b6649af874920a087a8bc7510833d/\
+    Slides:\
+    1D Radiative-Convective Model: http://rcmodel.mit.edu/advanced.html
 
 **Week 3 (Sep 16–20, 2019)**
 
