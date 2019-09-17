@@ -22,9 +22,9 @@ For dates in the future, this schedule lists the intended plan (which is subject
       
   * Fri 13 Sep L03
     * Guest speaker: Kerry Emanuel (MIT) on an overview of Climate Change\
-      Video: https://video.odl.mit.edu/videos/752b6649af874920a087a8bc7510833d/ \
-      Slides: [here](resource_files/2019-09-13-Emanuel-6.s898-talk-slides.pdf) \
-      1D Radiative-Convective Model: http://rcmodel.mit.edu/advanced.html
+      * Video: [[click here]](https://video.odl.mit.edu/videos/752b6649af874920a087a8bc7510833d/)
+      * Slides: [[click here]](resource_files/2019-09-13-Emanuel-6.s898-talk-slides.pdf)
+      * 1D Radiative-Convective Model: [rcmodel.mit.edu/advanced.html](http://rcmodel.mit.edu/advanced.html)
 
 **Week 3 (Sep 16–20, 2019)**
 
@@ -36,8 +36,9 @@ For dates in the future, this schedule lists the intended plan (which is subject
       * Accurate computer model of the greenhouse effect (w/ movie): [`IntuitiveGreenhouse`](https://github.com/hdrake/IntuitiveGreenhouse)
       * Paper on the linearity of outgoing longwave (thermal) radiation: [Koll and Cronin (2018)](https://www.pnas.org/content/115/41/10293.short?rss=1)
     
-  * Fri 20 Sep NO CLASS (Student Holiday)\
-      Henri will be leading an optional trip to the [Boston Climate Strike](https://www.facebook.com/events/349500849297711/).
+  * Fri 20 Sep NO CLASS (Student Holiday)
+    * Optional fieldtrip:
+      * Henri (TA) will be leading an optional trip to the [Boston Climate Strike](https://www.facebook.com/events/349500849297711/).
 
 **Week 4 (Sep 23–27, 2019)**
 
