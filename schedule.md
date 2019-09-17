@@ -48,7 +48,7 @@ For dates in the future, this schedule lists the intended plan (which is subject
   * Fri 27 Sep L06
     * Guest speaker: David McGee (MIT) on Paleoclimatology and Extreme Climates
     * Project Deadline:
-      * Post to piazza with:
+      * Submit public post to piazza with:
         * project team (names of 1-2 people)
         * 2-3 possible topics for project (a short paragraph desribing each)
 
