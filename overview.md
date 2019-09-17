@@ -88,11 +88,7 @@ The following is a brief syllabus, where the number of class sessions covering e
 
 **TA Office Hours**
 
-To be determined...
-
-**Recitations on Climate Data Analysis and Modelling**
-
-To be determined...
+Optional office hours will be held weekly on **Tuesdays from 4–6pm in 26-142**. Typically, the first hour will be a structured review or extension of content covered in the discussions / lectures while the second hour will be reserved for help with final projects and answering questions about class content.
 
 **Discussion and Announcements**
 
