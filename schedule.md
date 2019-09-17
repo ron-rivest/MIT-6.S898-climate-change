@@ -20,8 +20,8 @@ For dates in the future, this schedule lists the intended plan (which is subject
     See also: 
     [Climate Science and Climate Risk: A Primer, by Kerry A. Emanuel](https://eapsweb.mit.edu/sites/default/files/Climate_Primer.pdf)
   * Fri 13 Sep L03, guest: Kerry Emanuel (MIT) on an overview of Climate Change\
-    Video: https://video.odl.mit.edu/videos/752b6649af874920a087a8bc7510833d/\
-    Slides:\
+    Video: https://video.odl.mit.edu/videos/752b6649af874920a087a8bc7510833d/ \
+    Slides: \
     1D Radiative-Convective Model: http://rcmodel.mit.edu/advanced.html
 
 **Week 3 (Sep 16–20, 2019)**
