@@ -15,19 +15,21 @@ For dates in the future, this schedule lists the intended plan (which is subject
 
 **Week 2 (Sep 9–13, 2019)**
 
-  * Tue 10 Sep L02, reading:\
-    [*What we know about Climate Change*](https://mitpress.mit.edu/books/what-we-know-about-climate-change-updated-edition) by Emanuel (copy handed out at L01)\
-    See also: 
-    [Climate Science and Climate Risk: A Primer, by Kerry A. Emanuel](https://eapsweb.mit.edu/sites/default/files/Climate_Primer.pdf)
-  * Fri 13 Sep L03, guest: Kerry Emanuel (MIT) on an overview of Climate Change\
-    Video: https://video.odl.mit.edu/videos/752b6649af874920a087a8bc7510833d/ \
-    Slides: [here](resource_files/2019-09-13-Emanuel-6.s898-talk-slides.pdf) \
-    1D Radiative-Convective Model: http://rcmodel.mit.edu/advanced.html
+  * Tue 10 Sep L02
+    * Reading assignment:
+      * [*What we know about Climate Change*](https://mitpress.mit.edu/books/what-we-know-about-climate-change-updated-edition) by Emanuel (copy handed out at L01)
+      * See also: [Climate Science and Climate Risk: A Primer, by Kerry A. Emanuel](https://eapsweb.mit.edu/sites/default/files/Climate_Primer.pdf)
+      
+  * Fri 13 Sep L03
+    * Guest speaker: Kerry Emanuel (MIT) on an overview of Climate Change\
+      Video: https://video.odl.mit.edu/videos/752b6649af874920a087a8bc7510833d/ \
+      Slides: [here](resource_files/2019-09-13-Emanuel-6.s898-talk-slides.pdf) \
+      1D Radiative-Convective Model: http://rcmodel.mit.edu/advanced.html
 
 **Week 3 (Sep 16–20, 2019)**
 
   * Tue 17 Sep L04
-    * Reading/viewing:
+    * Reading/viewing assignment:
       * Modules 3 and 4 of Michael Mann's edX course: [[click here]](https://www.edx.org/course/climate-change-the-science-and-global-impact)
     * Resources from discussion:
       * Zero-dimensional "rock-star" model of Earth's climate: [`simplearth`](https://github.com/hdrake/simplearth/tree/ec8bfb9ae6b23b6799662671cfbbbcab49a0e75a)
