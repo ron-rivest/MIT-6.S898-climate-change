@@ -21,7 +21,7 @@ For dates in the future, this schedule lists the intended plan (which is subject
       * See also: [Climate Science and Climate Risk: A Primer, by Kerry A. Emanuel](https://eapsweb.mit.edu/sites/default/files/Climate_Primer.pdf)
       
   * Fri 13 Sep L03
-    * Guest speaker: Kerry Emanuel (MIT) on an overview of Climate Change\
+    * Guest speaker: Kerry Emanuel (MIT) on an overview of Climate Change
       * Video: [[click here]](https://video.odl.mit.edu/videos/752b6649af874920a087a8bc7510833d/)
       * Slides: [[click here]](resource_files/2019-09-13-Emanuel-6.s898-talk-slides.pdf)
       * 1D Radiative-Convective Model: [rcmodel.mit.edu/advanced.html](http://rcmodel.mit.edu/advanced.html)
@@ -36,15 +36,21 @@ For dates in the future, this schedule lists the intended plan (which is subject
       * Accurate computer model of the greenhouse effect (w/ movie): [`IntuitiveGreenhouse`](https://github.com/hdrake/IntuitiveGreenhouse)
       * Paper on the linearity of outgoing longwave (thermal) radiation: [Koll and Cronin (2018)](https://www.pnas.org/content/115/41/10293.short?rss=1)
     
-  * Fri 20 Sep NO CLASS (Student Holiday)
+  * Fri 20 Sep
+    * NO CLASS (Student Holiday)
     * Optional fieldtrip:
       * Henri (TA) will be leading an optional trip to the [Boston Climate Strike](https://www.facebook.com/events/349500849297711/).
 
 **Week 4 (Sep 23–27, 2019)**
 
-  * Tue 24 Sep L05, reading: TBD
-  * Fri 27 Sep L06, guest: David McGee (MIT) on Paleoclimatology and Abrupt Changes in the Geologic Record
-  * Fri 27 Sep Project Deadline: Identify team (1-2 people) and 2-3 possible topics for project
+  * Tue 24 Sep L05
+    * Reading: 
+  * Fri 27 Sep L06
+    * Guest speaker: David McGee (MIT) on Paleoclimatology and Extreme Climates
+    * Project Deadline:
+      * Post to piazza with:
+        * project team (names of 1-2 people)
+        * 2-3 possible topics for project (a short paragraph desribing each)
 
 **Week 5 (Sep 30–Oct 4, 2019)**
 
