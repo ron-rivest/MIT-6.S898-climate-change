@@ -89,6 +89,16 @@ This material may also be useful for those wishing to "self-study".
 * _Animations of the Earth's Carbon Cycle_\
   https://www.youtube.com/watch?time_continue=1&v=dwVsD9CiokY
   
+## Validating and Verifying Models
+
+* _Verification, Validation, and Confirmation of Numerical Models in the Earth Sciences_ \
+  by Naomi Oreskes, Kristin Shrader-Frechette, Kenneth Belitz; Science, (Feb 4, 1994) \
+  https://science.sciencemag.org/content/263/5147/641
+  
+* _When All Models are Wrong_ \
+  by Andrea Saltelli and Silvio Funtowicz (Issues in Science and Technology, Winter 2014)\
+  https://issues.org/andrea/
+  
 ## Computer Science technology applied to Climate Change
   
 * :white_check_mark: _Tackling Climate Change with Machine Learning_\
