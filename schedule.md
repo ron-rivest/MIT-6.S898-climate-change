@@ -18,7 +18,7 @@ For dates in the future, this schedule lists the intended plan (which is subject
   * Tue 10 Sep L02
     * Reading assignment:
       * [*What we know about Climate Change*](https://mitpress.mit.edu/books/what-we-know-about-climate-change-updated-edition) by Emanuel (copy handed out at L01)
-      * See also: [Climate Science and Climate Risk: A Primer, by Kerry A. Emanuel](https://eapsweb.mit.edu/sites/default/files/Climate_Primer.pdf)
+      * Alternatively, [Climate Science and Climate Risk: A Primer](https://eapsweb.mit.edu/sites/default/files/Climate_Primer.pdf) by Kerry A. Emanuel
       
   * Fri 13 Sep L03
     * Guest speaker: Kerry Emanuel (MIT) on an overview of Climate Change
