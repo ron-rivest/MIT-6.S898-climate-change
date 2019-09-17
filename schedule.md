@@ -26,8 +26,9 @@ For dates in the future, this schedule lists the intended plan (which is subject
 
 **Week 3 (Sep 16–20, 2019)**
 
-  * Tue 17 Sep L04, reading/viewing:\
-    Modules 3 and 4 of Michael Mann's online course: [[click here]](https://www.edx.org/course/climate-change-the-science-and-global-impact) \
+  * Tue 17 Sep L04, reading/viewing: Modules 3 and 4 of Michael Mann's edX course: [[click here]](https://www.edx.org/course/climate-change-the-science-and-global-impact)\
+    \
+    Resources from discussion:
     Zero-dimensional "rock-star" model of Earth's climate: [`simplearth`](https://github.com/hdrake/simplearth/tree/ec8bfb9ae6b23b6799662671cfbbbcab49a0e75a)\
     Accurate computer model of the greenhouse effect (w/ movie): [`IntuitiveGreenhouse`](https://github.com/hdrake/IntuitiveGreenhouse)\
     Paper on the linearity of outgoing longwave (thermal) radiation: [Koll and Cronin (2018)](https://www.pnas.org/content/115/41/10293.short?rss=1)
