@@ -28,7 +28,11 @@ For dates in the future, this schedule lists the intended plan (which is subject
 
   * Tue 17 Sep L04, reading/viewing:\
     Modules 3 and 4 of Michael Mann's online course:\
-    https://www.edx.org/course/climate-change-the-science-and-global-impact
+    https://www.edx.org/course/climate-change-the-science-and-global-impact \
+    Zero-dimensional "rock-star" model of Earth's climate: [`simplearth`](https://github.com/hdrake/simplearth/tree/ec8bfb9ae6b23b6799662671cfbbbcab49a0e75a)\
+    Accurate computer model of the greenhouse effect (w/ movie): [`IntuitiveGreenhouse`](https://github.com/hdrake/IntuitiveGreenhouse)
+    Paper on the linearity of outgoing longwave (thermal) radiation: [[Koll and Cronin (2018)]](https://www.pnas.org/content/115/41/10293.short?rss=1)
+    
   * Fri 20 Sep NO CLASS (Student Holiday)\
       Henri will be leading an optional trip to the [Boston Climate Strike](https://www.facebook.com/events/349500849297711/).
 
