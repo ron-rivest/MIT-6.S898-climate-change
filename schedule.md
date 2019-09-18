@@ -44,7 +44,13 @@ For dates in the future, this schedule lists the intended plan (which is subject
 **Week 4 (Sep 23–27, 2019)**
 
   * Tue 24 Sep L05
-    * Reading: 
+    * Reading assignment:
+      * *An early Cenozoic perspective of greenhouse warming and carbon-cycle dynamics*, Zachos et al. (2009)
+      * TBD
+    * Optional additional reading:
+      * TBD
+      * TBD
+      * TBD
   * Fri 27 Sep L06
     * Guest speaker: David McGee (MIT) on Paleoclimatology and Extreme Climates
     * Project Deadline:
