@@ -39,7 +39,7 @@ For dates in the future, this schedule lists the intended plan (which is subject
   * Fri 20 Sep
     * NO CLASS (Student Holiday)
     * Optional fieldtrip:
-      * Henri (TA) will be leading an optional trip to the [Boston Climate Strike](https://www.facebook.com/events/349500849297711/).
+      * Henri (TA) will be leading (in conjunction with the [broader MIT contingent](https://thetech.com/2019/09/17/join-global-climate-strike)) an optional trip to the [Boston Climate Strike](https://www.facebook.com/events/349500849297711/). We are meeting at 10:45am in front of the Stratton Student Center!
 
 **Week 4 (Sep 23–27, 2019)**
 
