@@ -45,12 +45,10 @@ For dates in the future, this schedule lists the intended plan (which is subject
 
   * Tue 24 Sep L05
     * Reading assignment:
-      * *An early Cenozoic perspective of greenhouse warming and carbon-cycle dynamics*, Zachos et al. (2009)
+      * [*An early Cenozoic perspective of greenhouse warming and carbon-cycle dynamics*, Zachos et al. (2009)](https://www.nature.com/articles/nature06588)
       * TBD
     * Optional additional reading:
-      * TBD
-      * TBD
-      * TBD
+      * [*Pliocene and Eocene provide best analogs for near-future climates*, Burke et al. (2018)](https://www.pnas.org/content/115/52/13288/tab-figures-data)
   * Fri 27 Sep L06
     * Guest speaker: David McGee (MIT) on Paleoclimatology and Extreme Climates
     * Project Deadline:
