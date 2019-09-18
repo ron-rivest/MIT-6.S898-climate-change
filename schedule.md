@@ -52,59 +52,94 @@ For dates in the future, this schedule lists the intended plan (which is subject
       * [University of Chicago's interactive geologic carbon cycle model](http://climatemodels.uchicago.edu/geocarb/)
   * Fri 27 Sep L06
     * Guest speaker: David McGee (MIT) on Paleoclimatology and Extreme Climates
-    * Project Deadline:
+    * **Project deadline**:
       * Submit public post to piazza with:
         * project team (names of 1-2 people)
         * 2-3 possible topics for project (a short paragraph desribing each)
 
 **Week 5 (Sep 30–Oct 4, 2019)**
 
-  * Tue 01 Oct L07, reading: TBD
-  * Fri 04 Oct L08, guest: Raffaele Ferrari (MIT) on Ocean Dynamics and Modelling
+  * Tue 01 Oct L07
+    * Reading assignment:
+      * TBD
+  * Fri 04 Oct L08
+    * Guest speaker: Raffaele Ferrari (MIT) on Ocean Dynamics and Modelling
+    * Additional readings and resources:
+      * Website for The Climate Modelling Alliance (CliMA): [https://clima.caltech.edu/](https://clima.caltech.edu/)
 
 **Week 6 (Oct 7–11, 2019)**
 
-  * Tue 08 Oct L09, reading: TBD
-  * Fri 11 Oct L10, guest: Noelle Selin (MIT) on Science and Governance
+  * Tue 08 Oct L09
+    * Reading assignment:
+      * TBD
+  * Fri 11 Oct L10
+    * Guest speaker: Noelle Selin (MIT) on Environmental Science and Governance
 
 **Week 7 (Oct 14–18, 2019)** [Oct 14–15 Columbus Holiday]
 
-  * Tue 15 Oct NO CLASS (Columbus Day)
-  * Fri 18 Oct L11, guest: TBD
-  * Fri 18 Oct Project Deadline: submit 1-2 page project proposal
+  * Tue 15 Oct
+    * NO CLASS (Columbus Day)
+  * Fri 18 Oct L11
+    * Guest speaker: TBD
+    * **Project deadline**:
+      * Submit 1-2 page project proposal
   
 **Week 8 (Oct 21–25, 2019)**
 
-  * Tue 22 Oct L12, reading: TBD
-  * Fri 25 Oct L13, guest: Francis O'Sullivan (MIT) on Energy and Climate
-  * Fri 25 Oct Project Deadline: meet with staff member about project (first time)
+  * Tue 22 Oct L12
+    * Reading assignment:
+      * TBD
+  * Fri 25 Oct L13
+    * Guest Speaker: Francis O'Sullivan (MIT) on Energy and Climate
+    * **Project deadline**:
+      * Meet with staff member for ~15 minutes about project (first time)
   
 **Week 9 (Oct 28–Nov 1, 2019)**
 
-  * Tue 29 Oct L14, reading: TBD [Note: 4pm MIT Climate Symposium]
-  * Fri 01 Nov L15, guest: Paul O'Gorman (MIT) on Atmospheric Science and Machine Learning
+  * Tue 29 Oct L14
+    * Reading assignment:
+      * TBD
+    * [MIT Climate Symposium](https://climate.mit.edu/symposia) from 4-7pm: Challenges of Climate Policy
+  * Fri 01 Nov L15
+    * Guest speaker: Paul O'Gorman (MIT) on Atmospheric Science and Machine Learning
 
 **Week 10 (Nov 4–8, 2019)**
-  * Tue 05 Nov L16, reading: TBD
-  * Fri 08 Nov L17, guest: Dava Newman and Gui Trotti (MIT) on [TBD]
+  * Tue 05 Nov L16
+    * Reading assignment:
+      * TBD
+  * Fri 08 Nov L17
+    * Guest speakers: Dava Newman and Gui Trotti (MIT) on topic TBD
   
 **Week 11 (Nov 11–15, 2019)** [Nov 11 Holiday]
-  * Tue 12 Nov L18, reading: TBD
-  * Fri 15 Nov L19, guest: John Reilly (MIT) on Economic Modelling
-  * Fri 15 Nov Project Deadline: meet with staff member about project (second time)
+  * Tue 12 Nov L18
+    * Reading assignment:
+      * TBD
+  * Fri 15 Nov L19
+    * Guest speaker: John Reilly (MIT) on Economic Modelling
+    * **Project Deadline**:
+      * meet with staff member about project (second time)
   
 **Week 12 (Nov 18–22, 2019)**
-  * Tue 19 Nov L20, reading: TBD
-  * Fri 22 Nov L21, guest: TBD
+  * Tue 19 Nov L20
+    * Assigned reading:
+      * TBD
+  * Fri 22 Nov L21
+    * Guest speaker: TBD
 
 **Week 13 (Nov 25–27, 2019)** [Nov 28–29 Holiday]
-  * Tue 26 Nov L22, reading: TBD
-  * Fri 29 Nov NO CLASS (Thanksgiving)
+  * Tue 26 Nov L22
+    * Assigned reading:
+      * TBD
+  * Fri 29 Nov
+    * NO CLASS (Thanksgiving)
 
 **Week 14 (Dec 2–6, 2019)**
-  * Tue 03 Dec L23, Project presentations
-  * Fri 06 Dec L24, Project presentations
+  * Tue 03 Dec L23
+    * Project presentations (email pdf / ppt / mp4 file to hdrake at mit.edu)
+  * Fri 06 Dec L24
+    * Project presentations (email pdf / ppt / mp4 file to hdrake at mit.edu)
 
 **Week 15 (Dec 9–11, 2019)** [Wed 11 Last class]
-  * Tue 10 Dec L25, Project presentations
-  * Tue 10 Dec Project Deadline: Final Written Report Due
+  * Tue 10 Dec L25
+    * Project presentations (email pdf / ppt / mp4 file to hdrake at mit.edu)
+    * **Project Deadline:** Final Written Report Due (email pdf to hdrake at mit.edu)
