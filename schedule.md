@@ -49,6 +49,7 @@ For dates in the future, this schedule lists the intended plan (which is subject
       * TBD
     * Optional additional reading:
       * [*Pliocene and Eocene provide best analogs for near-future climates*, Burke et al. (2018)](https://www.pnas.org/content/115/52/13288/tab-figures-data)
+      * [University of Chicago's interactive geologic carbon cycle model](http://climatemodels.uchicago.edu/geocarb/)
   * Fri 27 Sep L06
     * Guest speaker: David McGee (MIT) on Paleoclimatology and Extreme Climates
     * Project Deadline:
