@@ -15,3 +15,5 @@ The course Piazza page is [here](https://piazza.com/mit/fall2019/6s898/home).
 
 The first class is Friday, September 6th, in room 6-120, 1:00-2:30pm.  Enrollment is by permission.
 Attendance at the first class is required if you wish to enroll.
+
+The class meets Tuesdays in 4-231 (1pm--2:30pm) and Fridays in 6-120 (1pm--2:30pm).
