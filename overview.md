@@ -1,4 +1,4 @@
-# Overview: MIT Fall 2019 course 6.S898 Climate Change seminar
+# Overview: MIT Fall 2019 course 6.S898 / 12.S992 Climate Change seminar
 
 by Alan Edelman, John Fernández, and Ron Rivest
 
@@ -6,7 +6,7 @@ by Alan Edelman, John Fernández, and Ron Rivest
 **Catalog description**:
 
 ______
-6.S898 Climate Change seminar
+6.S898 Climate Change seminar (same subject as 12.S992)
 ______
 Graduate (Fall) 
 Prereq: Permission of instructor 
@@ -36,13 +36,10 @@ ______
 
 **Enrollment**:
 
-Enrollment is limited (to about 16–20). This [google form questionaire](https://forms.gle/N9iSj8a5VWyPhACE8) will be used if necessary
+Enrollment is limited (to about 25). This [google form questionaire](https://forms.gle/N9iSj8a5VWyPhACE8) will be used if necessary
 to select students for the class.  No prior background in climate change is required or expected.
 
-Because of limited enrollment and small class size on Tuesdays, we may not allow students
-to register as "listeners"--there may not be enough room on Tuesdays.  
-
-However, the guest lectures on Fridays (in 6-120) will be open to the general MIT community.  If you would like
+The guest lectures on Fridays (in 6-120) will be open to the general MIT community.  If you would like
 to be on the mailing list for these lectures, please send email to Henri Drake at <hdrake@mit.edu>.
 
 **Website**
