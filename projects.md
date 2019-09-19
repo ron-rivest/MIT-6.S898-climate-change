@@ -1,4 +1,4 @@
-# Projects for 6.S898 Climate Change seminar
+# Projects for 6.S898 / 12.S992 Climate Change seminar
 
 Each student is expected to research, present, and write-up a **final project**. The presentations will be about 15 minutes long and take place during the class sessions on Dec 03, Dec 06, and Dec 10. The final project write-up should be about 15 pages long (other formats possible for non-standard projects – see instructor for permission).
 
@@ -64,5 +64,3 @@ The following are a list of some potential projects (feel free to choose one of 
   * develop a campaign plan focused on addressing climate change for a politican (or run for public office yourself!)
 
 For inspiration, we recommend students browse our [list of resources](https://github.com/ron-rivest/MIT-6.S898-climate-change/blob/master/resources.md). You can also check out this [twitter thread in which the TA solicited project ideas from climate scientists and machine learning experts](https://twitter.com/henrifdrake/status/1169661135466848257?s=20). If you are unsure whether a potential topic would be appropriate, feel free to contact the TA (Henri Drake, hdrake at mit.edu).
-
-
