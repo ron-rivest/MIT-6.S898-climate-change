@@ -45,9 +45,8 @@ For dates in the future, this schedule lists the intended plan (which is subject
 
   * Tue 24 Sep L05
     * Reading assignment:
-      * [*Abrupt Climate Change*, Alley et al. (2003)](https://github.com/ron-rivest/MIT-6.S898-climate-change/blob/master/resource_files/readings/L05_Zachos_2008_Nature.pdf)
-      * [*An Early Cenozoic Perspective of Greenhouse Warming and Carbon-Cycle Dynamics*, Zachos et al. (2009)]()
-      * [*Abrupt Climate Change*](https://github.com/ron-rivest/MIT-6.S898-climate-change/blob/master/resource_files/readings/L05_Alley_2003_abdrupt_climate_change.pdf)
+      * [*Abrupt Climate Change*, Alley et al. (2003)](https://github.com/ron-rivest/MIT-6.S898-climate-change/blob/master/resource_files/readings/L05_Alley_2003_abdrupt_climate_change.pdf)
+      * [*An Early Cenozoic Perspective of Greenhouse Warming and Carbon-Cycle Dynamics*, Zachos et al. (2009)](https://github.com/ron-rivest/MIT-6.S898-climate-change/blob/master/resource_files/readings/L05_Zachos_2008_Nature.pdf)
       * [*Evaluation of Climate Models using Paleoclimatic Data*, Braconnot et al. (2012)](https://github.com/ron-rivest/MIT-6.S898-climate-change/blob/master/resource_files/readings/L05_Braconnot_2012_paleo_evaluation.pdf)
     * Optional additional reading:
       * [*Pliocene and Eocene provide best analogs for near-future climates*, Burke et al. (2018)](https://www.pnas.org/content/115/52/13288/tab-figures-data)
