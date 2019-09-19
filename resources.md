@@ -1,10 +1,10 @@
 # Resources for
-# MIT 6.S898 Climate Change seminar
+# MIT 6.S898 / 12.S992 Climate Change seminar
 ## Fall 2019
 
 by Alan Edelman, John Fern&#xE1;ndez, and Ron Rivest
 
-The material that 6.S898 students are expected to read is marked with :white_check_mark:;
+The material that 6.S898 /12.S992 students are expected to read is marked with :white_check_mark:;
 other material is optional/suggested reading.
 
 This material may also be useful for those wishing to "self-study".
