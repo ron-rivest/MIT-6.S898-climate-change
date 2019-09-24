@@ -81,7 +81,7 @@ For dates in the future, this schedule lists the intended plan (which is subject
   * Tue 15 Oct
     * NO CLASS (Columbus Day)
   * Fri 18 Oct L11
-    * Guest speaker: TBD
+    * Guest speaker: Elfatih Eltahir (MIT)
     * **Project deadline**:
       * Submit 1-2 page project proposal
   
