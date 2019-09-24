@@ -110,6 +110,8 @@ For dates in the future, this schedule lists the intended plan (which is subject
       * TBD
   * Fri 08 Nov L17
     * Guest speakers: Dava Newman and Gui Trotti (MIT) on topic TBD
+    * Additional resources: 
+      * https://temporaryearthdna.com/
   
 **Week 11 (Nov 11–15, 2019)** [Nov 11 Holiday]
   * Tue 12 Nov L18
