@@ -9,8 +9,6 @@ other material is optional/suggested reading.
 
 This material may also be useful for those wishing to "self-study".
 
-(This page needs some restructuring...)
-
 ## General introductory material
 
 * :white_check_mark: _What we know about climate change_\
@@ -232,12 +230,12 @@ This material may also be useful for those wishing to "self-study".
   
 ## Politics, Propaganda
 
-* **Merchants of Doubt**: \
+* **Merchants of Doubt**:
   * _Earth 101: Merchants of Doubt: How Climate Science Became a Victim of the Cold War_ \
     by Erik Conway
-  * _Merchants of Doubt (Movie): \
-    https://www.youtube.com/watch?v=MpAehajGu30 \
-  * _Merchants of Doubt (Book): \
+  * _Merchants of Doubt (Movie)_: \
+    https://www.youtube.com/watch?v=MpAehajGu30
+  * _Merchants of Doubt (Book)_: \
     by Erik M. Conway and Naomi Oreskes \
     https://www.youtube.com/watch?v=MpAehajGu30
 
