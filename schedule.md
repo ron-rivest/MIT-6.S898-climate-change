@@ -62,6 +62,7 @@ For dates in the future, this schedule lists the intended plan (which is subject
 
   * Tue 01 Oct L07
     * Reading assignment:
+      * [*How do climate models work*, McSweeney and Hausfather of carbonbrief (2018)](https://www.carbonbrief.org/qa-how-do-climate-models-work)
       * TBD
   * Fri 04 Oct L08
     * Guest speaker: Raffaele Ferrari (MIT) on Ocean Dynamics and Modelling
