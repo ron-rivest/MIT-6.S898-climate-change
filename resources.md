@@ -232,7 +232,8 @@ This material may also be useful for those wishing to "self-study".
 
 * **Merchants of Doubt**:
   * _Earth 101: Merchants of Doubt: How Climate Science Became a Victim of the Cold War_ \
-    by Erik Conway
+    by Erik Conway \
+    http://earth101.is/erik-m-conway 
   * _Merchants of Doubt (Movie)_: \
     https://www.youtube.com/watch?v=MpAehajGu30
   * _Merchants of Doubt (Book)_: \
