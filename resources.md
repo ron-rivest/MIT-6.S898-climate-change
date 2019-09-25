@@ -185,8 +185,12 @@ This material may also be useful for those wishing to "self-study".
   http://web.mit.edu/rpindyck/www/Papers/SCCRevisitedJEEM2019.pdf \
   (See also related papers on his web site: http://web.mit.edu/rpindyck/www/papers.htm)
 
-* History of the Oil Depletion Allowance\
+* _History of the Oil Depletion Allowance_\
   https://www.motherjones.com/politics/2014/04/oil-subsidies-energy-timeline/
+  
+* _United States Spend Ten Times More On Fossil Fuel Subsidies Than Education_\
+  by James Elsmoor.  Forbes (June 15, 2019).\
+  https://www.forbes.com/sites/jamesellsmoor/2019/06/15/united-states-spend-ten-times-more-on-fossil-fuel-subsidies-than-education/#6b92ca514473
   
 * _How Greentown Labs became the epicenter of clean tech_ \
   MIT News (June 25, 2019) \
