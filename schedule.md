@@ -63,7 +63,15 @@ For dates in the future, this schedule lists the intended plan (which is subject
 
   * Tue 01 Oct L07
     * Reading assignment:
-      * [*How do climate models work*, McSweeney and Hausfather of carbonbrief (2018)](https://www.carbonbrief.org/qa-how-do-climate-models-work)
+      * [*How do climate models work*, McSweeney and Hausfather of carbonbrief (2018)](https://www.carbonbrief.org/qa-how-do-climate-models-work)\
+      Read the following sections:
+        * What is a climate model?
+        * What are the different types of climate models?
+        * What are the inputs and outputs of a climate model?
+        * What types of experiments to scientists run on climate models?
+        * How do scientists validate climate models?
+        * How are climate models “parameterised” and tuned?
+        * How accurate are climate model projections of temperature?
       * TBD
   * Fri 04 Oct L08
     * Guest speaker: Raffaele Ferrari (MIT) on Ocean Dynamics and Modelling
@@ -83,7 +91,7 @@ For dates in the future, this schedule lists the intended plan (which is subject
   * Tue 15 Oct
     * NO CLASS (Columbus Day)
   * Fri 18 Oct L11
-    * Guest speaker: Elfatih Eltahir (MIT)
+    * Guest speaker: John Sterman (MIT) on Climate Policy Simulations
     * **Project deadline**:
       * Submit 1-2 page project proposal
   
@@ -118,7 +126,7 @@ For dates in the future, this schedule lists the intended plan (which is subject
 **Week 11 (Nov 11–15, 2019)** [Nov 11 Holiday]
   * Tue 12 Nov L18
     * Reading assignment:
-      * TBD
+      * [*2018 Food, Water, Energy, Climate Outlook*](https://globalchange.mit.edu/sites/default/files/newsletters/files/2018-JP-Outlook.pdf) by the MIT Joint Program on the Science and Policy of Global Change
   * Fri 15 Nov L19
     * Guest speaker: John Reilly (MIT) on Economic Modelling
     * **Project Deadline**:
