@@ -230,7 +230,16 @@ This material may also be useful for those wishing to "self-study".
   https://en.wikipedia.org/wiki/Greta_Thunberg
   
   
-## Politics
+## Politics, Propaganda
+
+* **Merchants of Doubt**: \
+  * _Earth 101: Merchants of Doubt: How Climate Science Became a Victim of the Cold War_ \
+    by Erik Conway
+  * _Merchants of Doubt (Movie): \
+    https://www.youtube.com/watch?v=MpAehajGu30 \
+  * _Merchants of Doubt (Book): \
+    by Erik M. Conway and Naomi Oreskes \
+    https://www.youtube.com/watch?v=MpAehajGu30
 
 * _Where 2020 Democrats Stand on Climate Change_ \
   Washington Post (updated June 25, 2019) \
