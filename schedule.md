@@ -63,7 +63,7 @@ For dates in the future, this schedule lists the intended plan (which is subject
 
   * Tue 01 Oct L07
     * Reading assignment:
-      * [*How do climate models work*, McSweeney and Hausfather (2018)](https://www.carbonbrief.org/qa-how-do-climate-models-work)\
+      * [*How do climate models work?*, McSweeney and Hausfather (2018)](https://www.carbonbrief.org/qa-how-do-climate-models-work)\
       Read the following sections:
         * What is a climate model?
         * What are the different types of climate models?
