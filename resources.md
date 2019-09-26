@@ -184,6 +184,10 @@ This material may also be useful for those wishing to "self-study".
   Robert S. Pindyck, The Journal of Environmental Economics and Management, February 2019.\
   http://web.mit.edu/rpindyck/www/Papers/SCCRevisitedJEEM2019.pdf \
   (See also related papers on his web site: http://web.mit.edu/rpindyck/www/papers.htm)
+  
+* _DICE: The Dynamic Integrated Climate-Economic Model_\
+  by William Nordhaus\
+  https://en.wikipedia.org/wiki/DICE_model
 
 * _History of the Oil Depletion Allowance_\
   https://www.motherjones.com/politics/2014/04/oil-subsidies-energy-timeline/
