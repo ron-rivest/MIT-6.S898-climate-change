@@ -71,7 +71,6 @@ For dates in the future, this schedule lists the intended plan (which is subject
         * What types of experiments to scientists run on climate models?
         * How do scientists validate climate models?
         * How are climate models “parameterised” and tuned?
-        * How accurate are climate model projections of temperature?
       * TBD
   * Fri 04 Oct L08
     * Guest speaker: Raffaele Ferrari (MIT) on Ocean Dynamics and Modelling
