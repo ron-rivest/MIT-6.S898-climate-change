@@ -54,6 +54,8 @@ For dates in the future, this schedule lists the intended plan (which is subject
       * [Guest opinion column in The Tech: *Two Donors, two deaths, two responses*](https://thetech.com/2019/09/19/two-donors-two-deaths-two-responses)
   * Fri 27 Sep L06
     * Guest speaker: David McGee (MIT) on Paleoclimatology and Extreme Climates
+      Some resources mentioned by David McGee during the lecture:
+        * http://www.seao2.info/mycgenie.html
     * **Project deadline**:
       * Submit public post to piazza with:
         * project team (names of 1-2 people)
