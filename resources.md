@@ -161,6 +161,9 @@ This material may also be useful for those wishing to "self-study".
   Evaluates methods for reducing emissions.\
   https://www.drawdown.org/solutions-summary-by-rank
   
+* Project VESTA (Carbon Capture using Olivine)\
+  https://projectvesta.org/
+  
 * Integrated Assessment Models\
   These models are used to answer central questions about climate change, from how the world could avoid 1.5C of global warming at the lowest cost, through to the implications of countries’ current pledges to cut emissions.
   https://www.carbonbrief.org/qa-how-integrated-assessment-models-are-used-to-study-climate-change
