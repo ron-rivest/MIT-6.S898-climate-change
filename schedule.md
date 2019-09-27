@@ -63,6 +63,7 @@ For dates in the future, this schedule lists the intended plan (which is subject
 
   * Tue 01 Oct L07
     * Reading assignment:
+      * Chapter 6: "Processes" of [*Introduciton to Climate Science*](https://open.oregonstate.education/climatechange/chapter/processes/) by Schmittner
       * Carbonbrief Q&A: [*How do climate models work?*](https://www.carbonbrief.org/qa-how-do-climate-models-work)\
       Read the following sections:
         * What is a climate model?
@@ -71,7 +72,8 @@ For dates in the future, this schedule lists the intended plan (which is subject
         * What types of experiments to scientists run on climate models?
         * How do scientists validate climate models?
         * How are climate models “parameterised” and tuned?
-      * TBD
+    * Additional reading:
+      * Chapter 7: "Global warming and the ocean" of [*Climate and the Oceans*](https://press.princeton.edu/titles/9636.html) by Vallis
   * Fri 04 Oct L08
     * Guest speaker: Raffaele Ferrari (MIT) on Ocean Dynamics and Modelling
     * Additional readings and resources:
