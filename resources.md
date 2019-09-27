@@ -235,6 +235,14 @@ This material may also be useful for those wishing to "self-study".
   https://twitter.com/GretaThunberg \
   https://en.wikipedia.org/wiki/Greta_Thunberg
   
+## Movies
+
+* _An Inconvenient Truth_ \
+  by Al Gore \
+  https://www.amazon.com/gp/video/detail/0TA9R1D8G54EETAB1J6KGTIQJ9/ref=imdbref_tt_wbr_aiv \
+  _An Inconvenient Sequel: Truth to Power_ \
+  https://www.amazon.com/Inconvenient-Sequel-Truth-Power/dp/B07482X13D/ref=sr_1_1
+  
   
 ## Politics, Propaganda
 
