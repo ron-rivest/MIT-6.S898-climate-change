@@ -65,7 +65,7 @@ For dates in the future, this schedule lists the intended plan (which is subject
 
   * Tue 01 Oct L07
     * Reading assignment:
-      * Chapter 6: "Processes" of [*Introduciton to Climate Science*](https://open.oregonstate.education/climatechange/chapter/processes/) by Schmittner
+      * Chapter 6: "Processes" of [*Introduction to Climate Science*](https://open.oregonstate.education/climatechange/chapter/processes/) by Schmittner
       * Carbonbrief Q&A: [*How do climate models work?*](https://www.carbonbrief.org/qa-how-do-climate-models-work)\
       Read the following sections:
         * What is a climate model?
