@@ -85,9 +85,10 @@ For dates in the future, this schedule lists the intended plan (which is subject
 
   * Tue 08 Oct L09
     * Reading assignment:
-      * TBD
+      * [*Short-lived climate pollutant mitigation and the Sustainable Development Goals*](https://github.com/ron-rivest/MIT-6.S898-climate-change/blob/master/resource_files/readings/L09_Haines_2017_short_lived_pollutant_mitigation_UN_SDGs.pdf) by Haines et al. (2017)
   * Fri 11 Oct L10
-    * Guest speaker: Noelle Selin (MIT) on Environmental Science and Governance
+    * Guest speaker: Noelle Selin (MIT) on Environmental Science and Governance\
+    Title: *Climate Change, Air Pollution and Sustainability: Decision-Making for Human Well-Being*
 
 **Week 7 (Oct 14–18, 2019)** [Oct 14–15 Columbus Holiday]
 
