@@ -22,8 +22,8 @@ For dates in the future, this schedule lists the intended plan (which is subject
       
   * Fri 13 Sep L03
     * Guest speaker: Kerry Emanuel (MIT) on an overview of Climate Change
-      * Video: [[click here]](https://video.odl.mit.edu/videos/752b6649af874920a087a8bc7510833d/)
-      * Slides: [[click here]](resource_files/2019-09-13-Emanuel-6.s898-talk-slides.pdf)
+      * Video of lecture: [[click here]](https://video.odl.mit.edu/videos/752b6649af874920a087a8bc7510833d/)
+      * Lecture slides: [[click here]](https://github.com/ron-rivest/MIT-6.S898-climate-change/blob/master/resource_files/guest_lectures/2019-09-13-Emanuel-6.s898-talk-slides.pdf)
       * 1D Radiative-Convective Model: [rcmodel.mit.edu/advanced.html](http://rcmodel.mit.edu/advanced.html)
 
 **Week 3 (Sep 16–20, 2019)**
@@ -53,9 +53,18 @@ For dates in the future, this schedule lists the intended plan (which is subject
       * [University of Chicago's interactive geologic carbon cycle model](http://climatemodels.uchicago.edu/geocarb/)
       * [Guest opinion column in The Tech: *Two Donors, two deaths, two responses*](https://thetech.com/2019/09/19/two-donors-two-deaths-two-responses)
   * Fri 27 Sep L06
-    * Guest speaker: David McGee (MIT) on Paleoclimatology and Extreme Climates\
-      Some resources mentioned by David McGee during the lecture:
-        * http://www.seao2.info/mycgenie.html
+    * Guest speaker: David McGee (MIT) on Paleoclimatology and Extreme Climates
+      * Video of lecture: [[click here]](http://email.video.odl.mit.edu/c/eJxljssKgzAURL_G7Az3YV6LLErF_0hMggGtpVq_v1m0q8IshuFwmOSDIo6iegJ04MgCMCotUTLryaC7A45mVKPpBrhqyrvc0yq3esqc3mLxLmacKbqiGQg4Z4o4RygQ2BogFKtfzvN5dHzraGr5k_y2o5XcFCZnoyipIRZ2JWqHtkAMlvSsGyJefr-OXsvDOtuHtNVHu_Z1fQB1jDvW)
+      * Lecture slides: [[click here]](https://github.com/ron-rivest/MIT-6.S898-climate-change/blob/master/resource_files/guest_lectures/2019-09-27-McGee_6.S898_ClimateChange_Fall2019.pdf)
+      * Some resources mentioned by David McGee during (or after) the lecture:
+        * [cGENIE Earth System Model](http://www.seao2.info/mycgenie.html)
+        * [NOAA's data repository for paleoclimate](https://www.ncdc.noaa.gov/data-access/paleoclimatology-data)
+    * Additional reading suggested by the guest speaker:
+      * [Paper on proxy system modeling](http://one.geol.umd.edu/preprints/psm13.pdf)
+      * [Paper on data assimilation in paleoclimate](https://www.clim-past.net/15/1251/2019/)
+      * [Paper on algorithms for improved analysis of paleoclimate time series](https://www.sciencedirect.com/science/article/pii/S0925231217315345)
+      * [Paper on relative stability of climate models vs. larger, more abrupt changes seen in paleodata](https://www.nature.com/articles/ngeo1200)
+        
     * **Project deadline**:
       * Submit public post to piazza with:
         * project team (names of 1-2 people)
