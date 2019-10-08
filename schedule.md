@@ -104,7 +104,7 @@ For dates in the future, this schedule lists the intended plan (which is subject
   * Tue 15 Oct
     * NO CLASS (Columbus Day)
   * Fri 18 Oct L11
-    * Guest speaker: John Sterman (MIT) on Climate Policy Simulations
+    * **TBD (original speaker rescheduled)**
     * **Project deadline**:
       * Submit 1-2 page project proposal
   
@@ -129,7 +129,7 @@ For dates in the future, this schedule lists the intended plan (which is subject
 
 **Week 10 (Nov 4–8, 2019)**
   * Tue 05 Nov L16
-    * Reading assignment:
+    * Guest speaker: John Sterman (MIT) on Climate Policy Simulations
       * TBD
   * Fri 08 Nov L17
     * Guest speakers: Dava Newman and Gui Trotti (MIT) on topic TBD
