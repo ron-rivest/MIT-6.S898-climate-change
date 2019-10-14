@@ -87,6 +87,8 @@ For dates in the future, this schedule lists the intended plan (which is subject
       * Chapter 7: "Global warming and the ocean" of [*Climate and the Oceans*](https://press.princeton.edu/titles/9636.html) by Vallis
   * Fri 04 Oct L08
     * Guest speaker: Raffaele Ferrari (MIT) on Ocean Dynamics and Modelling
+      * Video of lecture: [[click here]](https://video.odl.mit.edu/videos/a4d33145da4441cd90696e6e82018982/)
+      * Lecture slides (student access only): [[click here]](https://piazza.com/class_profile/get_resource/jzvpyobmt6j6e3/k1r19u6goyc3dl)
     * Additional readings and resources:
       * Website for The Climate Modelling Alliance (CliMA): [https://clima.caltech.edu/](https://clima.caltech.edu/)
 
@@ -98,13 +100,15 @@ For dates in the future, this schedule lists the intended plan (which is subject
   * Fri 11 Oct L10
     * Guest speaker: Noelle Selin (MIT) on Environmental Science and Governance\
     Title: *Climate Change, Air Pollution and Sustainability: Decision-Making for Human Well-Being*
+      * Video of lecture: [[click here]](https://video.odl.mit.edu/videos/14f0ed7b578b41a38e1ef6a751bb0980/)
+      * Lecture slides (student access only): [[click here]](https://piazza.com/class_profile/get_resource/jzvpyobmt6j6e3/k1r17f7katr66)
 
 **Week 7 (Oct 14–18, 2019)** [Oct 14–15 Columbus Holiday]
 
   * Tue 15 Oct
     * NO CLASS (Columbus Day)
   * Fri 18 Oct L11
-    * **TBD (original speaker rescheduled)**
+    * John Deutch (MIT) on The Optimum Allocation of Available Budget to Joint Climate Control Mechanisms
     * **Project deadline**:
       * Submit 1-2 page project proposal
   
