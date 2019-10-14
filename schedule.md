@@ -111,7 +111,7 @@ For dates in the future, this schedule lists the intended plan (which is subject
   * Fri 18 Oct L11
     * John Deutch (MIT) on The Optimum Allocation of Available Budget to Joint Climate Control Mechanisms
     * **Project deadline**:
-      * Submit 1-2 page project proposal
+      * Submit 1-2 page project proposal by sending a pdf to 6.s898-staff@mit.edu with subject line "6.S898 Project Proposal - [Your Name]"
   
 **Week 8 (Oct 21–25, 2019)**
 
