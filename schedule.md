@@ -102,6 +102,7 @@ For dates in the future, this schedule lists the intended plan (which is subject
     Title: *Climate Change, Air Pollution and Sustainability: Decision-Making for Human Well-Being*
       * Video of lecture: [[click here]](https://video.odl.mit.edu/videos/14f0ed7b578b41a38e1ef6a751bb0980/)
       * Lecture slides (student access only): [[click here]](https://piazza.com/class_profile/get_resource/jzvpyobmt6j6e3/k1r17f7katr66)
+      * Additional references: [Thompson et al. (2014)](https://github.com/ron-rivest/MIT-6.S898-climate-change/blob/master/resource_files/readings/L10_Thompson_2014_US_pollution_co-benefits.pdf) on air pollution co-benefits of U.S. emissions reducitons and [Li et al. (2019)](https://github.com/ron-rivest/MIT-6.S898-climate-change/blob/master/resource_files/readings/L10_Li_2018_chinese_air_pollution_co-benefits.pdf) on air pollution co-benefits of Chinese emissions reductions.
 
 **Week 7 (Oct 14–18, 2019)** [Oct 14–15 Columbus Holiday]
 
