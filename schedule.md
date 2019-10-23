@@ -111,6 +111,7 @@ For dates in the future, this schedule lists the intended plan (which is subject
   * Fri 18 Oct L11
     * John Deutch (MIT) on The Optimum Allocation of Available Budget to Joint Climate Control Mechanisms
       * Lecture slides: [[click here]](https://github.com/ron-rivest/MIT-6.S898-climate-change/blob/master/resource_files/guest_lectures/2019-10-18-Deutch_Optimium_Allocation.pdf)
+      * Video unavailable at request of lecturer.
     * **Project deadline**:
       * Submit 1-2 page project proposal by sending a pdf to 6.s898-staff@mit.edu with subject line "6.S898 Project Proposal - [Your Name]"
   
