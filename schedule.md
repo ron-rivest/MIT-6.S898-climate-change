@@ -118,18 +118,20 @@ For dates in the future, this schedule lists the intended plan (which is subject
 **Week 8 (Oct 21–25, 2019)**
 
   * Tue 22 Oct L12
-    * Reading assignment:
-      * TBD
+    * No Reading Assignment
+    * In-class climate model demo
+      * An extremely simple model of "worst-case" global warming (in julia): [[click here]](https://mybinder.org/v2/gh/hdrake/simplearth/master?filepath=warming_timescales.ipynb) [[on github]](https://github.com/hdrake/simplearth)
+      * Analysis of "worst-case" global warming in state-of-the-art CMIP6 models (in python): [[click here]](https://binder.pangeo.io/v2/gh/hdrake/cmip6-temperature-demo/master?filepath=notebooks%2F00_calculate_simulated_global_warming.ipynb) [[on github]](https://github.com/hdrake/cmip6-temperature-demo)
   * Fri 25 Oct L13
     * Guest Speaker: Francis O'Sullivan (MIT) on Energy and Climate
-    * **Project deadline**:
-      * Meet with staff member for ~15 minutes about project (first time)
+      * Video of lecture: [[click here]](https://video.odl.mit.edu/videos/e1ea76a977f343c5a46860a394885e16/)
   
 **Week 9 (Oct 28–Nov 1, 2019)**
 
   * Tue 29 Oct L14
     * Reading assignment:
-      * TBD
+      * [*What Are Climate Models Missing?*](https://github.com/ron-rivest/MIT-6.S898-climate-change/blob/master/resource_files/readings/L14_Stevens_2013_climate_models.pdf) by Stevens and Bony (2013)
+      * [*Using Machine Learning to Parameterize Moist Convection: Potential for Modelling of Climate, Climate Change, and Extreme Events*](https://github.com/ron-rivest/MIT-6.S898-climate-change/blob/master/resource_files/readings/L14_Ogorman_2018_convection_machine_learning.pdf) by O'Gorman and Dwyer (2018)
     * [MIT Climate Symposium](https://climate.mit.edu/symposia) from 4-7pm: Challenges of Climate Policy
   * Fri 01 Nov L15
     * Guest speaker: Paul O'Gorman (MIT) on Atmospheric Science and Machine Learning
@@ -150,7 +152,7 @@ For dates in the future, this schedule lists the intended plan (which is subject
   * Fri 15 Nov L19
     * Guest speaker: John Reilly (MIT) on Economic Modelling
     * **Project Deadline**:
-      * meet with staff member about project (second time)
+      * Meet with staff member about project at least once
   
 **Week 12 (Nov 18–22, 2019)**
   * Tue 19 Nov L20
