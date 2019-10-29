@@ -125,16 +125,19 @@ For dates in the future, this schedule lists the intended plan (which is subject
   * Fri 25 Oct L13
     * Guest Speaker: Francis O'Sullivan (MIT) on Energy and Climate
       * Video of lecture: [[click here]](https://video.odl.mit.edu/videos/e1ea76a977f343c5a46860a394885e16/)
+      * Lecture slides: [[click here]](https://github.com/ron-rivest/MIT-6.S898-climate-change/blob/master/resource_files/guest_lectures/2019-10-25-O'Sullivan_power_systems.pdf)
   
 **Week 9 (Oct 28–Nov 1, 2019)**
 
   * Tue 29 Oct L14
     * Reading assignment:
       * [*What Are Climate Models Missing?*](https://github.com/ron-rivest/MIT-6.S898-climate-change/blob/master/resource_files/readings/L14_Stevens_2013_climate_models.pdf) by Stevens and Bony (2013)
-      * [*Using Machine Learning to Parameterize Moist Convection: Potential for Modelling of Climate, Climate Change, and Extreme Events*](https://github.com/ron-rivest/MIT-6.S898-climate-change/blob/master/resource_files/readings/L14_Ogorman_2018_convection_machine_learning.pdf) by O'Gorman and Dwyer (2018)
+      * [*Tackling Climate Change with Machine Learning*](https://arxiv.org/abs/1906.05433) by Rolnick et al. (2019)
     * [MIT Climate Symposium](https://climate.mit.edu/symposia) from 4-7pm: Challenges of Climate Policy
   * Fri 01 Nov L15
     * Guest speaker: Paul O'Gorman (MIT) on Atmospheric Science and Machine Learning
+    * Reading assignment:
+      * [*Using Machine Learning to Parameterize Moist Convection: Potential for Modelling of Climate, Climate Change, and Extreme Events*](https://github.com/ron-rivest/MIT-6.S898-climate-change/blob/master/resource_files/readings/L14_Ogorman_2018_convection_machine_learning.pdf) by O'Gorman and Dwyer (2018)
 
 **Week 10 (Nov 4–8, 2019)**
   * Tue 05 Nov L16
