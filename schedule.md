@@ -136,6 +136,7 @@ For dates in the future, this schedule lists the intended plan (which is subject
     * [MIT Climate Symposium](https://climate.mit.edu/symposia) from 4-7pm: Challenges of Climate Policy
   * Fri 01 Nov L15
     * Guest speaker: Paul O'Gorman (MIT) on Atmospheric Science and Machine Learning
+      * Video of lecture: [[click here]](https://video.odl.mit.edu/videos/f985082b062144a79c2770e44f7e26ab/)
     * Reading assignment:
       * [*Using Machine Learning to Parameterize Moist Convection: Potential for Modelling of Climate, Climate Change, and Extreme Events*](https://github.com/ron-rivest/MIT-6.S898-climate-change/blob/master/resource_files/readings/L14_Ogorman_2018_convection_machine_learning.pdf) by O'Gorman and Dwyer (2018)
 
