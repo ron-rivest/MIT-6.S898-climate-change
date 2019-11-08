@@ -160,8 +160,7 @@ For dates in the future, this schedule lists the intended plan (which is subject
   
 **Week 12 (Nov 18–22, 2019)**
   * Tue 19 Nov L20
-    * Assigned reading:
-      * TBD
+    * Guest speaker: Bill Weihl (MIT / Akamai / Google / Facebook / ...) on how companies can contribute
   * Fri 22 Nov L21
     * Guest speaker: TBD
 
