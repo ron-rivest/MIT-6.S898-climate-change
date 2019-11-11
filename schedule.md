@@ -143,9 +143,8 @@ For dates in the future, this schedule lists the intended plan (which is subject
 **Week 10 (Nov 4–8, 2019)**
   * Tue 05 Nov L16
     * Guest speaker: John Sterman (MIT) on Climate Policy Simulations
-      * TBD
   * Fri 08 Nov L17
-    * Guest speakers: Dava Newman and Gui Trotti (MIT) on topic TBD
+    * Guest speakers: Dava Newman and Gui Trotti (MIT) on *Earth’s Vital Signs Revealed: A View from Space for Action on Earth*
       * Video of lecture: [[click here]](https://video.odl.mit.edu/videos/78dca55a0ab74ae793f428cfcd4a5d33/)
     * Additional resources: 
       * https://temporaryearthdna.com/
