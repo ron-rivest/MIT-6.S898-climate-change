@@ -151,10 +151,15 @@ For dates in the future, this schedule lists the intended plan (which is subject
   
 **Week 11 (Nov 11–15, 2019)** [Nov 11 Holiday]
   * Tue 12 Nov L18
-    * Reading assignment:
-      * [*2018 Food, Water, Energy, Climate Outlook*](https://globalchange.mit.edu/sites/default/files/newsletters/files/2018-JP-Outlook.pdf) by the MIT Joint Program on the Science and Policy of Global Change
+    * Lecture slides: [[click here]](https://github.com/ron-rivest/MIT-6.S898-climate-change/blob/master/resource_files/guest_lectures/2019-11-12-Drake_climate_model_skill.pdf)
+    * [En-ROADS climate simulator](https://enroads.climateinteractive.org/) (currently in beta, v1.0 release expected soon)
+    * Additional readings:
+      * [*Evaluation of Climate Models*](https://www.ipcc.ch/site/assets/uploads/2018/02/WG1AR5_Chapter09_FINAL.pdf), Chapter 9 of Inter-governmental Panel on Climate Change (IPCC) Fifth Assessment Report (AR5) Working Group 1 (WG1)]
+      * [*Assessing Climate Model Projections of Global Warming Patterns*](https://eartharxiv.org/ahq4p/) by Drake et al. (non peer-reveiwed preprint)
+      * [*Climate models can correctly simulate the continuum of global-average temperature variability*](https://github.com/ron-rivest/MIT-6.S898-climate-change/blob/master/resource_files/readings/L18_Zhu_2018_accurate_temperature_spectrum.pdf) by Zhu et al. (2019)
   * Fri 15 Nov L19
     * Guest speaker: John Reilly (MIT) on Economic Modelling
+      * [*2018 Food, Water, Energy, Climate Outlook*](https://globalchange.mit.edu/sites/default/files/newsletters/files/2018-JP-Outlook.pdf) by the MIT Joint Program on the Science and Policy of Global Change
     * **Project Deadline**:
       * Meet with staff member about project at least once
   
@@ -166,8 +171,8 @@ For dates in the future, this schedule lists the intended plan (which is subject
 
 **Week 13 (Nov 25–27, 2019)** [Nov 28–29 Holiday]
   * Tue 26 Nov L22
-    * Assigned reading:
-      * TBD
+    * Debriefing: *Lessons learned, confusions, and open questions*
+      * Each student is expected to share one of their main takeaways from the course, something they are still confused about, or an open question they are interested in pursuing further.
   * Fri 29 Nov
     * NO CLASS (Thanksgiving)
 
