@@ -154,7 +154,7 @@ For dates in the future, this schedule lists the intended plan (which is subject
     * Lecture slides: [[click here]](https://github.com/ron-rivest/MIT-6.S898-climate-change/blob/master/resource_files/guest_lectures/2019-11-12-Drake_climate_model_skill.pdf)
     * [En-ROADS climate simulator](https://enroads.climateinteractive.org/) (currently in beta, v1.0 release expected soon)
     * Additional readings:
-      * [*Evaluation of Climate Models*](https://www.ipcc.ch/site/assets/uploads/2018/02/WG1AR5_Chapter09_FINAL.pdf), Chapter 9 of Inter-governmental Panel on Climate Change (IPCC) Fifth Assessment Report (AR5) Working Group 1 (WG1)]
+      * [*Evaluation of Climate Models*](https://www.ipcc.ch/site/assets/uploads/2018/02/WG1AR5_Chapter09_FINAL.pdf), Chapter 9 of Inter-governmental Panel on Climate Change (IPCC) Fifth Assessment Report (AR5) Working Group 1 (WG1)
       * [*Assessing Climate Model Projections of Global Warming Patterns*](https://eartharxiv.org/ahq4p/) by Drake et al. (non peer-reveiwed preprint)
       * [*Climate models can correctly simulate the continuum of global-average temperature variability*](https://github.com/ron-rivest/MIT-6.S898-climate-change/blob/master/resource_files/readings/L18_Zhu_2018_accurate_temperature_spectrum.pdf) by Zhu et al. (2019)
   * Fri 15 Nov L19
