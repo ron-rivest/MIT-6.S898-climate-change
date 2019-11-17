@@ -159,6 +159,7 @@ For dates in the future, this schedule lists the intended plan (which is subject
       * [*Climate models can correctly simulate the continuum of global-average temperature variability*](https://github.com/ron-rivest/MIT-6.S898-climate-change/blob/master/resource_files/readings/L18_Zhu_2018_accurate_temperature_spectrum.pdf) by Zhu et al. (2019)
   * Fri 15 Nov L19
     * Guest speaker: John Reilly (MIT) on Economic Modelling
+      * Video of lecture: [[click here]](https://video.odl.mit.edu/videos/cb543cdc607340b089573ebcd153a0f4/)
       * [*2018 Food, Water, Energy, Climate Outlook*](https://globalchange.mit.edu/sites/default/files/newsletters/files/2018-JP-Outlook.pdf) by the MIT Joint Program on the Science and Policy of Global Change
     * **Project Deadline**:
       * Meet with staff member about project at least once
