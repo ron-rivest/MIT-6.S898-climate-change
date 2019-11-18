@@ -180,10 +180,26 @@ For dates in the future, this schedule lists the intended plan (which is subject
 **Week 14 (Dec 2–6, 2019)**
   * Tue 03 Dec L23
     * Project presentations (email pdf / ppt / mp4 file to hdrake at mit.edu)
+      * Yo Shavit
+      * Izzy Brand and Rami Manna
+      * Sabrina Drammis
+      * Jennifer Switzer
+      * Daniel Goodwin
+      
   * Fri 06 Dec L24
     * Project presentations (email pdf / ppt / mp4 file to hdrake at mit.edu)
+      * Meia Alsup
+      * Alex Cabral
+      * Govind Ramnarayan
+      * Kavya Ravichandran
+      * Lena Abdalla
+      * Karan Bhuwalka
 
 **Week 15 (Dec 9–11, 2019)** [Wed 11 Last class]
   * Tue 10 Dec L25
     * Project presentations (email pdf / ppt / mp4 file to hdrake at mit.edu)
+      * Shannon Duffy
+      * Justin Xiang
+      * Vanshika Jain and Nitya Parthasarathy
+      * Manvitha Ponnapati, Janak Agrawal, and Ali Ramadhan
     * **Project Deadline:** Final Written Report Due (email pdf to hdrake at mit.edu)
