@@ -167,8 +167,13 @@ For dates in the future, this schedule lists the intended plan (which is subject
 **Week 12 (Nov 18–22, 2019)**
   * Tue 19 Nov L20
     * Guest speaker: Bill Weihl (MIT / Akamai / Google / Facebook / ...) on how companies can contribute
+      * Video unavailabe (no recording tech on Tuesdays)
+      * Lecture slides: [[click here]](https://github.com/ron-rivest/MIT-6.S898-climate-change/blob/master/resource_files/guest_lectures/2019-11-20%20Bill%20Weihl%20from%20action%20to%20advocacy.pdf)
   * Fri 22 Nov L21
-    * Guest speaker: TBD
+    * Assigned readings:
+      * [*A Plan to Keep Carbon in Check*](https://github.com/ron-rivest/MIT-6.S898-climate-change/blob/master/resource_files/readings/L21_Socolow_2006_climate_wedges_plan.pdf) by Socolow and Pacala (2006)
+      * [*Renewable Energy Policy Design and Framing Influence Public Support in the United States*](https://github.com/ron-rivest/MIT-6.S898-climate-change/blob/master/resource_files/readings/L21_Stokes_2017_RPS_publicsupport.pdf) by Stokes and Warshaw (2017)
+      * [*Where 2020 Democrats stand on Climate change*](https://www.washingtonpost.com/graphics/politics/policy-2020/climate-change/) from the Washington Post
 
 **Week 13 (Nov 25–27, 2019)** [Nov 28–29 Holiday]
   * Tue 26 Nov L22
